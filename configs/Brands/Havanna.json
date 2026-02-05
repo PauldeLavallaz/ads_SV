@@ -1,0 +1,300 @@
+{
+  "brand_info": {
+    "name": "Havanna",
+    "tagline": "Sweet as life, salty as the sea.",
+    "category": "Confectionery, Coffee Shops",
+    "positioning": "Synonymous with quality, tradition, and Argentine flavor, evoking memories and becoming an icon of Argentine sweetness worldwide. An emblematic Argentine brand holding a special place in people's hearts, positioned as a premium global brand.",
+    "vision": "Not explicitly declared.",
+    "mission": "Our goal is to always create a strong bond with our customers.",
+    "origin_story": "Founded in 1947 in Mar del Plata, Argentina, as a bakery initially known for its alfajores and artisanal sweets. The first products were sold in January 1948."
+  },
+  "brand_values": {
+    "core_values": [
+      "Quality",
+      "Tradition",
+      "Authenticity",
+      "Argentine Flavor",
+      "Craftsmanship",
+      "Connection"
+    ],
+    "brand_promise": "To deliver authentic Argentine sweetness and moments of shared pleasure through high-quality, traditional products.",
+    "differentiators": [
+      "Iconic alfajores and dulce de leche recipes since 1947",
+      "Strong association with Mar del Plata and Argentine culture",
+      "Combination of traditional products with a modern cafe experience",
+      "Global presence with local essence"
+    ],
+    "non_negotiables": [
+      "Product quality and artisanal standards",
+      "Authenticity of Argentine flavors",
+      "Customer experience and satisfaction"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "25-65+",
+      "gender": "All",
+      "income_level": "Mid to upper-mid"
+    },
+    "psychographics": {
+      "lifestyle": "Appreciates quality food and beverages, enjoys social gatherings, values tradition and cultural heritage, seeks moments of indulgence and comfort.",
+      "values": [
+        "Tradition",
+        "Quality",
+        "Pleasure",
+        "Nostalgia",
+        "Authenticity",
+        "Sharing"
+      ],
+      "behavior": "Frequent cafe visitor, gift-giver, traveler seeking local delicacies, consumer of premium sweets and coffee."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Warm",
+      "Inviting",
+      "Authentic",
+      "Sophisticated",
+      "Nostalgic",
+      "Joyful"
+    ],
+    "communication_style": "Friendly, evocative, descriptive, appreciative of heritage, focused on sensory experience.",
+    "language_register": "Accessible yet refined, avoiding overly casual or overly formal language.",
+    "preferred_structures": [
+      "Storytelling about origin and tradition",
+      "Descriptions of product ingredients and craftsmanship",
+      "Invitations to experience and share"
+    ],
+    "avoid": [
+      "Overly aggressive sales language",
+      "Trendy jargon that might alienate traditional consumers",
+      "Exaggerated claims"
+    ],
+    "emotional_temperature": "Warm, comforting, subtly joyful.",
+    "tone_dos": [
+      "Emphasize heritage and quality",
+      "Highlight sensory experiences (taste, aroma)",
+      "Encourage sharing and connection"
+    ],
+    "tone_donts": [
+      "Sound generic or mass-market",
+      "Be overly serious or clinical",
+      "Focus solely on price"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Havanna wordmark with a distinctive 'H' and often accompanied by a shield emblem.",
+      "usage_rules": "Must maintain clear space, original proportions, and specified color variations. Often appears on a yellow background or in a color that contrasts clearly.",
+      "lockup_behavior": "Typically appears with the brand name and sometimes the shield. Can be integrated into packaging or signage.",
+      "safe_area": "Minimum clear space equivalent to the height of the 'H' in the logo."
+    },
+    "color_system": {
+      "primary_colors": [
+        "Havanna Yellow (warm, golden yellow)",
+        "Rich Brown (dulce de leche/chocolate tone)",
+        "Cream/Off-White"
+      ],
+      "secondary_colors": [
+        "Deep Blue (for accents, evoking the sea)",
+        "Warm Red (for specific product lines or promotions)",
+        "Natural Greens (for fresh ingredients or cafe ambiance)"
+      ],
+      "color_usage_rules": "Primary yellow is dominant for brand recognition. Browns and creams for product focus. Secondary colors for accents and thematic campaigns. Colors should evoke warmth, richness, and naturalness."
+    },
+    "typography": {
+      "primary_font": "Serif font with classic, elegant characteristics (e.g., similar to Bodoni or Didot for headlines, or a customized serif).",
+      "secondary_font": "Clean, legible sans-serif for body text and functional information.",
+      "weights": {
+        "headlines": "Bold to semi-bold",
+        "body": "Regular",
+        "captions": "Light to regular"
+      },
+      "spacing": {
+        "letter_spacing": "Standard to slightly open for headlines, standard for body text.",
+        "line_height": "Comfortable for readability, slightly more open for headlines."
+      },
+      "hierarchy": [
+        "Brand name/logo (most prominent)",
+        "Campaign headlines (large, distinctive serif)",
+        "Sub-headlines/product names (smaller serif or bold sans-serif)",
+        "Body text (legible sans-serif)",
+        "Legal/small print (fine sans-serif)"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Flexible grid system, often symmetrical or balanced asymmetry, allowing for hero product shots and lifestyle imagery.",
+      "white_space_ratio": "Generous use of white/negative space to create a premium and uncluttered feel.",
+      "image_vs_text_balance": "Image-dominant, with text providing context and emotional connection. Images are the primary draw.",
+      "cta_placement": "Clear, concise, and often placed in a prominent but not intrusive position, typically at the bottom or side of the layout.",
+      "alignment": "Often center-aligned or left-aligned for text blocks, with visual elements balanced within the frame."
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "Appetizing",
+        "Warm",
+        "Authentic",
+        "Lifestyle",
+        "Inviting",
+        "Natural",
+        "Sensory",
+        "Joyful",
+        "Nostalgic"
+      ],
+      "preferred_photographers": [],
+      "camera_feel": "Professional, high-quality, often with a slightly shallow depth of field to emphasize product or subject. Focus on natural textures and details.",
+      "pose_guidelines": "Natural, relaxed, joyful, contemplative. Poses that convey enjoyment, sharing, and comfort. Interactions with products should feel authentic.",
+      "casting_attitude": "Authentic, warm, friendly, happy, enjoying the moment. People of various ages, often in pairs or small groups, reflecting social connection and family values."
+    },
+    "technical": {
+      "lighting": "Soft, natural, often warm lighting that enhances appetite appeal and creates an inviting atmosphere. Golden hour light for outdoor or cafe settings.",
+      "contrast": "Moderate to high contrast to make products pop and add depth, but avoiding harsh shadows or over-exposure.",
+      "grain": "Minimal to none, maintaining a clean and polished look.",
+      "depth_of_field": "Shallow to medium, drawing focus to the main subject (product or person) while subtly blurring backgrounds.",
+      "color_grading": "Warm and rich, enhancing natural colors, particularly browns, yellows, and creams. Avoid cool or desaturated tones."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Warm and inviting",
+      "Authentic and real",
+      "Premium and aspirational",
+      "Joyful and celebratory of small pleasures",
+      "Nostalgic and comforting"
+    ],
+    "preferred_locations": [
+      "Cozy cafe interiors",
+      "Coastal settings (Mar del Plata references)",
+      "Home environments (kitchens, living rooms)",
+      "Outdoor picnic or gathering spots",
+      "Urban settings with a touch of charm"
+    ],
+    "contexts": [
+      "Sharing moments with loved ones",
+      "Personal indulgence and treat-yourself moments",
+      "Coffee breaks and afternoon snacks",
+      "Gifting occasions",
+      "Travel and vacation memories"
+    ],
+    "model_casting": {
+      "age_range": "Broad, from young adults to seniors, reflecting multi-generational appeal.",
+      "diversity": "Diverse in terms of age and natural appearance, representing a wide customer base. Authenticity over idealized perfection.",
+      "attitude": "Genuine happiness, contentment, warmth, and a sense of connection."
+    },
+    "product_presentation": {
+      "hero_visibility": "Products are always clearly visible and presented in an appealing manner, often as the central focus or a key element of the scene.",
+      "styling_approach": "Artisanal, natural, and appetizing. Products are often shown unwrapped or partially eaten to highlight texture and filling. Accompanied by coffee, tea, or other complementary items.",
+      "avoid": [
+        "Overly artificial or staged product shots",
+        "Products looking unappetizing or messy",
+        "Excessive props that distract from the product"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Moderate to slow, allowing viewers to savor the visuals and emotional moments. Smooth transitions.",
+      "transitions": "Gentle fades, subtle wipes, or natural cuts that maintain a fluid and pleasant viewing experience."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show authentic enjoyment and connection",
+        "Highlight product textures and deliciousness",
+        "Use warm, natural lighting",
+        "Feature diverse and relatable people",
+        "Maintain a clean and inviting aesthetic"
+      ],
+      "visual_donts": [
+        "Use harsh, artificial lighting",
+        "Feature overly posed or unnatural models",
+        "Clutter layouts with too many elements",
+        "Depict products in an unappealing way",
+        "Employ cold or sterile color palettes"
+      ],
+      "copy_dos": [
+        "Evoke sensory experiences and emotions",
+        "Connect to tradition and heritage",
+        "Emphasize quality ingredients and craftsmanship",
+        "Encourage sharing and gifting",
+        "Use warm and inviting language"
+      ],
+      "copy_donts": [
+        "Use overly aggressive or pushy sales tactics",
+        "Employ generic or uninspired language",
+        "Make unsubstantiated claims",
+        "Focus solely on functional benefits without emotional appeal",
+        "Sound cold or impersonal"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "The core brand identity as an Argentine symbol of sweetness and quality",
+        "The iconic alfajor and dulce de leche recipes",
+        "The warm and authentic brand personality",
+        "The primary color palette (yellow, brown, cream)",
+        "Commitment to artisanal quality"
+      ],
+      "can_evolve": [
+        "Specific campaign themes and narratives",
+        "Adaptations of product offerings to new markets",
+        "Modernization of visual styles while retaining core essence",
+        "Digital engagement strategies"
+      ],
+      "test_zone": [
+        "New product flavors or categories outside core offerings",
+        "Experimental digital content formats (e.g., AR filters)",
+        "Collaborations with other brands for limited editions"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Natural wood",
+        "Warm lighting fixtures",
+        "Glass display cases",
+        "Ceramic or artisanal tableware",
+        "Branded packaging (yellow, brown, cream)"
+      ],
+      "interactive_elements": [
+        "Product tasting stations",
+        "Coffee brewing demonstrations",
+        "Comfortable seating areas for lingering",
+        "Display of brand history/heritage elements"
+      ],
+      "soundscape": "Soft, inviting background music, often instrumental or light jazz, creating a relaxed and pleasant ambiance. Subtle sounds of coffee preparation."
+    },
+    "digital": {
+      "tone_adjustment": "Slightly more dynamic and interactive for social media, maintaining warmth and authenticity. More informative and detailed on the website.",
+      "content_ratio": {
+        "campaign_vs_product": "60% campaign/lifestyle, 40% product focus",
+        "motion_vs_static": "50% motion (short videos, stories), 50% static images"
+      },
+      "platform_behavior": {
+        "Instagram": "High-quality lifestyle imagery, short engaging videos, behind-the-scenes content, user-generated content features, stories highlighting daily moments of indulgence.",
+        "Website": "Comprehensive product information, brand history, store locator, e-commerce, recipe ideas, corporate information, high-resolution imagery.",
+        "Newsletter": "Exclusive offers, new product announcements, seasonal campaigns, storytelling content, behind-the-scenes glimpses, direct links to purchase."
+      }
+    },
+    "print": {
+      "paper": "High-quality, often matte or subtly textured paper stock for a premium feel. Recycled options where appropriate.",
+      "cover_rules": "Clean, impactful imagery of hero products or lifestyle scenes. Prominent but elegant logo placement. Minimal text, focusing on evocative headlines."
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Stretching or distorting the logo",
+      "Changing logo colors outside approved palette",
+      "Placing the logo on busy backgrounds without clear space",
+      "Altering the shield emblem or typography",
+      "Using outdated versions of the logo"
+    ]
+  }
+}

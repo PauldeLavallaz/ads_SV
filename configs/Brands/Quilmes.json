@@ -1,0 +1,302 @@
+{
+  "brand_info": {
+    "name": "Quilmes",
+    "tagline": "El sabor del encuentro",
+    "category": "Beer",
+    "positioning": "A symbol of national pride, celebration, and everyday life in Argentina, deeply connected to Argentine culture and traditions.",
+    "vision": "",
+    "mission": "",
+    "origin_story": "Founded in 1890 in the city of Quilmes, Argentina, by German immigrant Otto Bemberg as a beer manufacturer. The product was marketed under the Quilmes name, honoring the indigenous denomination of the city. It quickly grew to become the most popular beer brand in Buenos Aires by the 1920s and a national symbol, sponsoring the Argentina national football team."
+  },
+  "brand_values": {
+    "core_values": [
+      "National Pride",
+      "Authenticity",
+      "Community",
+      "Celebration",
+      "Friendship",
+      "Passion"
+    ],
+    "brand_promise": "To be the beer that unites Argentinians in moments of joy, celebration, and shared experiences, embodying the national spirit.",
+    "differentiators": [
+      "Deep historical and cultural connection to Argentina",
+      "Strong association with national football and major cultural events",
+      "Authentic representation of Argentine everyday life and traditions",
+      "Iconic blue-and-white branding mirroring the Argentine flag"
+    ],
+    "non_negotiables": [
+      "Connection to Argentine identity",
+      "Quality of product",
+      "Involvement in national celebrations and traditions",
+      "Authentic portrayal of social gatherings"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-65+",
+      "gender": "All",
+      "income_level": "All"
+    },
+    "psychographics": {
+      "lifestyle": "Social, active, family-oriented, patriotic, enjoys sports (especially football), values traditions and gatherings.",
+      "values": [
+        "Nationalism",
+        "Camaraderie",
+        "Tradition",
+        "Joy",
+        "Belonging",
+        "Optimism"
+      ],
+      "behavior": "Participates in social events, watches football, enjoys barbecues (asados), celebrates national holidays, seeks authentic local experiences, shares moments with friends and family."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Passionate",
+      "Proud",
+      "Warm",
+      "Humorous",
+      "Inclusive",
+      "Optimistic",
+      "Authentic"
+    ],
+    "communication_style": "Direct, engaging, colloquial, celebratory, often uses storytelling and cultural references.",
+    "language_register": "Informal, relatable, uses local Argentine expressions and slang where appropriate.",
+    "preferred_structures": [
+      "Narrative-driven campaigns",
+      "Emotional appeals tied to national identity",
+      "Humorous scenarios depicting everyday life",
+      "Direct calls to celebrate and unite"
+    ],
+    "avoid": [
+      "Overly formal language",
+      "Exclusionary messaging",
+      "Negative or cynical tones",
+      "Complex or abstract concepts"
+    ],
+    "emotional_temperature": "Warm, enthusiastic, joyful, nostalgic (when referencing past glories).",
+    "tone_dos": [
+      "Embrace Argentine cultural nuances",
+      "Highlight shared experiences and community spirit",
+      "Use humor and lightheartedness",
+      "Convey a sense of belonging and national pride"
+    ],
+    "tone_donts": [
+      "Be condescending or elitist",
+      "Ignore current social sentiments",
+      "Use overly aggressive or confrontational language",
+      "Focus solely on product features without emotional connection"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Quilmes logo (blue and white shield with red text)",
+      "usage_rules": "Always prominently displayed, often in the top left or bottom right, or centrally at the end of a campaign. Must maintain clear space.",
+      "lockup_behavior": "Typically used independently or with a clear tagline. Integrated into packaging and campaign visuals.",
+      "safe_area": "Requires significant clear space around the logo to ensure visibility and impact."
+    },
+    "color_system": {
+      "primary_colors": [
+        "Light Blue (similar to Argentine flag)",
+        "White",
+        "Red (for text/accents within logo)"
+      ],
+      "secondary_colors": [
+        "Golden Yellow (beer color)",
+        "Earthy tones (for natural settings like asados)",
+        "Vibrant blues and greens (for summer/beach scenes)"
+      ],
+      "color_usage_rules": "Primary colors (blue and white) are foundational, reflecting national identity. Secondary colors are used to evoke specific moods or environments, always complementing the primary palette."
+    },
+    "typography": {
+      "primary_font": "Sans-serif (often a bold, clear, and slightly rounded style for headlines)",
+      "secondary_font": "Sans-serif (for body text, ensuring readability)",
+      "weights": {
+        "headlines": "Bold, Heavy",
+        "body": "Regular, Medium",
+        "captions": "Light, Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Standard to slightly open for headlines, standard for body.",
+        "line_height": "Comfortable for readability, slightly tighter for impactful headlines."
+      },
+      "hierarchy": [
+        "Brand name/tagline (largest, boldest)",
+        "Campaign headlines (large, bold)",
+        "Supporting text (medium size, clear)",
+        "Legal/small print (smallest, legible)"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Flexible, often dynamic and organic to capture lively moments, but with clear zones for key visuals and branding.",
+      "white_space_ratio": "Moderate to low, often filled with vibrant imagery and people, but with enough space around key elements for focus.",
+      "image_vs_text_balance": "Heavily image-dominant, with text serving to reinforce the visual narrative or deliver a concise message.",
+      "cta_placement": "Clear and prominent, typically at the bottom or end of the visual communication.",
+      "alignment": "Often centered or left-aligned for text, but visuals can be dynamic and asymmetrical."
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "Authentic",
+        "Candid",
+        "Lively",
+        "Joyful",
+        "Natural",
+        "Dynamic",
+        "Celebratory",
+        "Relatable"
+      ],
+      "preferred_photographers": [],
+      "camera_feel": "Handheld, immersive, capturing genuine moments as if from within the event. Sometimes cinematic for emotional impact.",
+      "pose_guidelines": "Natural, unposed, expressive. People laughing, cheering, toasting, interacting spontaneously. Avoid stiff or overly formal poses.",
+      "casting_attitude": "Energetic, enthusiastic, friendly, approachable, passionate, embodying the Argentine spirit."
+    },
+    "technical": {
+      "lighting": "Natural, warm, inviting. Often bright and sunny for outdoor scenes, or soft and ambient for indoor gatherings. Emphasizes warmth and conviviality.",
+      "contrast": "Medium to high, ensuring vibrancy and clarity, especially in celebratory or outdoor settings.",
+      "grain": "Minimal to none, aiming for clear, crisp imagery, though slight filmic grain might be used for nostalgic campaigns.",
+      "depth_of_field": "Varied, often shallow to focus on subjects in a crowd, or deep to capture expansive celebratory scenes.",
+      "color_grading": "Warm, slightly saturated to enhance the feeling of joy and vibrancy. Emphasizes natural skin tones and the blue/white brand colors."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Optimistic",
+      "Energetic",
+      "Heartwarming",
+      "Humorous",
+      "Epic (for national events like World Cup)"
+    ],
+    "preferred_locations": [
+      "Football stadiums",
+      "Asado (barbecue) gatherings",
+      "Beaches and coastal areas",
+      "City streets and plazas during celebrations",
+      "Homes and backyards during social events"
+    ],
+    "contexts": [
+      "Football matches (watching or playing)",
+      "Friend and family gatherings",
+      "Summer vacations and outdoor activities",
+      "National holidays and cultural festivals",
+      "Everyday moments of connection and enjoyment"
+    ],
+    "model_casting": {
+      "age_range": "Young adults to middle-aged, with occasional inclusion of older generations and children to represent family.",
+      "diversity": "Diverse representation of Argentinians from various backgrounds, reflecting the country's population.",
+      "attitude": "Authentic, joyful, passionate, relatable, expressive, with a strong sense of camaraderie."
+    },
+    "product_presentation": {
+      "hero_visibility": "The Quilmes bottle or can is clearly visible and integrated naturally into the scene, often being held, shared, or placed within the social context.",
+      "styling_approach": "Product is presented as an integral part of the experience, not just an object. Often shown chilled, with condensation, emphasizing refreshment.",
+      "avoid": [
+        "Product appearing isolated or detached from human interaction",
+        "Overly staged or artificial product shots",
+        "Product being consumed irresponsibly"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Dynamic and energetic for celebratory moments, fluid and natural for social interactions, building anticipation for key reveals.",
+      "transitions": "Smooth cuts, quick edits for high-energy scenes, dissolves for nostalgic or reflective moments. Often uses music to drive rhythm."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show genuine human connection and interaction",
+        "Feature diverse groups of Argentinians enjoying themselves",
+        "Incorporate national symbols subtly or explicitly (blue and white colors)",
+        "Utilize natural and warm lighting",
+        "Present the product as part of a shared experience"
+      ],
+      "visual_donts": [
+        "Depict isolated individuals without social context",
+        "Use overly dark or desaturated color palettes",
+        "Employ stiff or artificial poses",
+        "Show the product in an unappealing or irresponsible manner",
+        "Use generic stock photography that lacks authenticity"
+      ],
+      "copy_dos": [
+        "Use relatable and colloquial language",
+        "Evoke emotions of pride, joy, and belonging",
+        "Reference Argentine culture, traditions, and humor",
+        "Encourage shared experiences and togetherness",
+        "Be optimistic and celebratory"
+      ],
+      "copy_donts": [
+        "Use overly formal or academic language",
+        "Be negative, cynical, or critical",
+        "Make comparisons to other brands",
+        "Focus on technical details over emotional connection",
+        "Use language that excludes any segment of the Argentine population"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Deep connection to Argentine national identity and culture",
+        "Commitment to fostering social connection and celebration",
+        "The iconic blue and white branding elements",
+        "Positioning as 'the beer of Argentinians'"
+      ],
+      "can_evolve": [
+        "Specific campaign themes and narratives (e.g., adapting to current events like World Cups)",
+        "Advertising channels and formats (e.g., digital-first content)",
+        "Partnerships and collaborations (e.g., with new athletes or artists)",
+        "Product variations (e.g., limited editions)"
+      ],
+      "test_zone": [
+        "New digital interactive experiences",
+        "Experimental content formats on emerging social platforms",
+        "Collaborations with unexpected cultural figures",
+        "Localized campaigns for specific regions within Argentina"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Point-of-sale displays featuring vibrant imagery of people celebrating",
+        "Refrigerators and shelving units branded with blue and white",
+        "Promotional items like glasses, coolers, and apparel",
+        "Limited edition packaging for special events (e.g., World Cup)"
+      ],
+      "interactive_elements": [
+        "In-store tastings (where permitted)",
+        "QR codes linking to campaign content or contests",
+        "Themed displays for major sporting events"
+      ],
+      "soundscape": "Upbeat, popular Argentine music (folk, rock, cumbia), sounds of cheering crowds, clinking glasses, laughter."
+    },
+    "digital": {
+      "tone_adjustment": "More immediate, interactive, and conversational on social media; more narrative and immersive on websites and longer video content.",
+      "content_ratio": {
+        "campaign_vs_product": "70% campaign/lifestyle, 30% direct product promotion",
+        "motion_vs_static": "60% motion (video, animated graphics), 40% static (images, infographics)"
+      },
+      "platform_behavior": {
+        "Instagram": "High-quality, visually engaging photos and short videos of social gatherings, behind-the-scenes content, interactive stories, user-generated content features.",
+        "Website": "Brand history, product information, campaign archives, news, responsible drinking information, e-commerce integration (where applicable).",
+        "Newsletter": "Updates on new campaigns, special offers, event invitations, brand stories, cultural content related to Argentina."
+      }
+    },
+    "print": {
+      "paper": "High-quality, often glossy for advertisements, standard matte for informational materials.",
+      "cover_rules": "Bold imagery, strong headlines, clear brand logo. Often features people in celebratory or social contexts."
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorting or altering the logo's proportions",
+      "Changing the official brand colors of the logo",
+      "Placing the logo on busy backgrounds without sufficient clear space",
+      "Using outdated versions of the logo",
+      "Applying filters or effects that obscure the logo's clarity"
+    ]
+  }
+}
