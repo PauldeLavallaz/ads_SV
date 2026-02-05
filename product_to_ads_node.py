@@ -114,6 +114,16 @@ class ProductToAdsManualNode:
                     "step": 1
                 }),
                 "min_image_size": (["500", "1000", "1500"], {"default": "1000"}),
+                "language": ("STRING", {
+                    "multiline": False,
+                    "default": "es",
+                    "placeholder": "Output language: es, en, pt, fr, etc."
+                }),
+                "creative_brief": ("STRING", {
+                    "multiline": True,
+                    "default": "",
+                    "placeholder": "Optional creative direction: describe the scene, mood, style, or concept you want. E.g.: 'Golden hour rooftop scene, model enjoying the product casually, warm editorial feel'"
+                }),
             },
             "optional": {
                 "talent_image": ("IMAGE",),
@@ -153,6 +163,8 @@ class ProductToAdsManualNode:
         top_p: float,
         rerun_nonce: int = 0,
         min_image_size: str = "1000",
+        language: str = "es",
+        creative_brief: str = "",
         talent_image=None,
         product_image_1=None,
         product_image_2=None,
@@ -388,6 +400,15 @@ class ProductToAdsManualNode:
             if brief_error:
                 logger.add_warning(f"Brief prompt load issue: {brief_error}")
             
+            # Inject creative brief into Phase 2 brief generation
+            if brief_prompt and creative_brief and creative_brief.strip():
+                brief_prompt = brief_prompt + "\n\nCRITICAL CLIENT CREATIVE DIRECTION:\nThe following creative direction MUST influence the Campaign Brief. Incorporate this vision into the strategic objective, visual tone, environment, styling, and art direction:\n\n<client_creative_brief>\n" + creative_brief.strip() + "\n</client_creative_brief>\n"
+                logger.log(f"Creative brief injected into Phase 2: {creative_brief.strip()[:80]}...")
+            
+            # Inject language into brief generation
+            if brief_prompt and language and language.strip():
+                brief_prompt = brief_prompt + f"\n\nLANGUAGE: All textual content must be designed for the {language.strip()} language market.\n"
+            
             if brand_identity:
                 logger.log("Calling Gemini Flash for campaign brief...")
                 
@@ -470,6 +491,44 @@ class ProductToAdsManualNode:
                     logger.log("Keyword bank loaded and injected into prompt")
                 
                 master_prompt = master_prompt.replace("{{FORMAT}}", aspect_ratio)
+                
+                # Inject creative brief if provided
+                if creative_brief and creative_brief.strip():
+                    creative_injection = f"""
+
+CRITICAL CREATIVE DIRECTION FROM CLIENT:
+The following creative brief MUST be followed as the PRIMARY creative direction. 
+It overrides generic defaults for scene, environment, mood, styling, and concept.
+All Blueprint JSON fields for scene, environment, wardrobe, pose, lighting, and atmosphere 
+must be designed to fulfill this creative vision:
+
+<client_creative_brief>
+{creative_brief.strip()}
+</client_creative_brief>
+
+Integrate this direction into every relevant field of the Blueprint JSON.
+The scene, environment, styling, pose, lighting, and mood must ALL reflect this brief.
+"""
+                    master_prompt = master_prompt + creative_injection
+                    logger.log(f"Creative brief injected: {creative_brief.strip()[:100]}...")
+                
+                # Inject language directive
+                if language and language.strip():
+                    lang = language.strip().lower()
+                    lang_names = {
+                        "es": "Spanish (español)", "en": "English", "pt": "Portuguese (português)",
+                        "fr": "French (français)", "it": "Italian (italiano)", "de": "German (Deutsch)"
+                    }
+                    lang_name = lang_names.get(lang, lang)
+                    language_injection = f"""
+
+LANGUAGE DIRECTIVE:
+ALL text content in the Blueprint JSON MUST be in {lang_name}.
+This includes: CTA text, headlines, body copy, taglines, and any visible text.
+The brand name itself stays unchanged, but all advertising copy must be in {lang_name}.
+"""
+                    master_prompt = master_prompt + language_injection
+                    logger.log(f"Language directive: {lang_name}")
             
             logger.log("Calling Gemini Flash for campaign blueprint...")
             
