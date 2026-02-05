@@ -405,8 +405,8 @@ class ProductToAdsManualNode:
                 brief_prompt = brief_prompt + "\n\nCRITICAL CLIENT CREATIVE DIRECTION:\nThe following creative direction MUST influence the Campaign Brief. Incorporate this vision into the strategic objective, visual tone, environment, styling, and art direction:\n\n<client_creative_brief>\n" + creative_brief.strip() + "\n</client_creative_brief>\n"
                 logger.log(f"Creative brief injected into Phase 2: {creative_brief.strip()[:80]}...")
             
-            # Inject language into brief generation
-            if brief_prompt and language and language.strip():
+            # Inject language into brief generation — ONLY when non-default language is specified
+            if brief_prompt and language and language.strip() and language.strip().lower() != "es":
                 brief_prompt = brief_prompt + f"\n\nLANGUAGE: All textual content must be designed for the {language.strip()} language market.\n"
             
             if brand_identity:
@@ -512,8 +512,8 @@ The scene, environment, styling, pose, lighting, and mood must ALL reflect this 
                     master_prompt = master_prompt + creative_injection
                     logger.log(f"Creative brief injected: {creative_brief.strip()[:100]}...")
                 
-                # Inject language directive
-                if language and language.strip():
+                # Inject language directive — ONLY when non-default language is specified
+                if language and language.strip() and language.strip().lower() != "es":
                     lang = language.strip().lower()
                     lang_names = {
                         "es": "Spanish (español)", "en": "English", "pt": "Portuguese (português)",
