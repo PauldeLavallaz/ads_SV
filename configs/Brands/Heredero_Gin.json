@@ -1,0 +1,301 @@
+{
+  "brand_info": {
+    "name": "Heredero Gin",
+    "tagline": "¡Creating great moments!",
+    "category": "Gin (Spirits)",
+    "positioning": "An artisanal gin inspired by the Argentine Mesopotamian landscape, emphasizing natural botanicals, particularly tangerine, and offering a unique, approachable flavor. Positioned as 'Naturally Distinguished' and 'The essence of our land in a gin, a journey to Argentine Mesopotamia'.",
+    "vision": "To offer a unique gin that embodies the essence and natural richness of the Argentine Mesopotamia, creating memorable experiences for consumers.",
+    "mission": "To craft a naturally distinguished, artisanal gin using carefully selected botanicals and pure water from the Argentine Mesopotamia, providing an approachable and unique flavor profile for consumers to enjoy in various moments.",
+    "origin_story": "Heredero Gin was founded in 2015 in La Paz, Entre Ríos, Argentina. The brand's inception was driven by the idea to create an original gin that highlights the indigenous botanicals of the Argentine Mesopotamia region, with a particular focus on tangerine skin, combined with juniper and rosemary."
+  },
+  "brand_values": {
+    "core_values": [
+      "Authenticity",
+      "Nature",
+      "Craftsmanship",
+      "Heritage",
+      "Innovation",
+      "Approachability"
+    ],
+    "brand_promise": "A unique, naturally distinguished gin experience that connects you to the essence of Argentine Mesopotamia and creates great moments.",
+    "differentiators": [
+      "Tangerine as a protagonist botanical, making it unique in the world",
+      "Origin in the Argentine Mesopotamian landscape, utilizing its climate, land, water, and flora",
+      "Small-scale artisanal production",
+      "Use of pure raw materials without additives",
+      "Distinctive bottle closure design featuring wood and a copper medallion",
+      "Añejo gin aged in first-use Malbec French and American oak barrels"
+    ],
+    "non_negotiables": [
+      "Commitment to natural botanicals",
+      "Adherence to artisanal production processes",
+      "Strong connection to the Argentine Mesopotamia origin",
+      "Maintenance of high-quality ingredients",
+      "Promotion of responsible consumption"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "25-55",
+      "gender": "Unisex",
+      "income_level": "Mid to High"
+    },
+    "psychographics": {
+      "lifestyle": "Appreciates authentic experiences, enjoys social gatherings, values quality and natural ingredients, interested in regional products and craft spirits, enjoys exploring new flavors.",
+      "values": [
+        "Authenticity",
+        "Connection to nature",
+        "Quality",
+        "Tradition",
+        "Enjoyment",
+        "Discovery"
+      ],
+      "behavior": "Social drinker, cocktail enthusiast, seeks premium and unique spirits, willing to invest in quality and products with a compelling origin story."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Authentic",
+      "Refined",
+      "Inviting",
+      "Natural",
+      "Celebratory",
+      "Rooted",
+      "Approachable"
+    ],
+    "communication_style": "Evocative, Descriptive, Warm, Engaging, Storytelling.",
+    "language_register": "Accessible yet sophisticated, informative about origin and botanicals.",
+    "preferred_structures": [
+      "Sensory descriptions of flavor and aroma",
+      "Narratives about the brand's origin and process",
+      "Invitations to experience and create moments"
+    ],
+    "avoid": [
+      "Overly technical jargon",
+      "Overly casual or slang language",
+      "Aggressive or pushy sales language",
+      "Generic or uninspired descriptions"
+    ],
+    "emotional_temperature": "Warm, inviting, joyful, sophisticated, genuine.",
+    "tone_dos": [
+      "Emphasize the unique origin and natural ingredients",
+      "Highlight the distinct flavor profile, especially tangerine",
+      "Convey a sense of enjoyment and shared experiences",
+      "Use language that evokes the Argentine Mesopotamian landscape"
+    ],
+    "tone_donts": [
+      "Sound generic or indistinguishable from other gin brands",
+      "Make unsubstantiated claims",
+      "Use overly complex or alienating terminology",
+      "Focus solely on the alcoholic content without context"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Text-based 'HEREDERO GIN' often with a distinct, elegant font, potentially incorporating an emblem or graphic element related to its origin, such as on the copper medallion of the bottle closure.",
+      "usage_rules": "Maintain clear space around the logo, ensure consistent sizing across all applications, and prioritize legibility. The logo should be prominently featured on product and marketing materials.",
+      "lockup_behavior": "The logo typically appears with the full brand name, often accompanied by 'GIN' or 'ARGENTINA' to reinforce identity and origin.",
+      "safe_area": "A minimum clear space equivalent to the height of the 'H' in 'HEREDERO' should be maintained around the logo to ensure its prominence and legibility."
+    },
+    "color_system": {
+      "primary_colors": [
+        "Copper/Bronze (from bottle closure)",
+        "Deep Green (representing nature and botanicals)",
+        "Tangerine Orange (key botanical and bottle detail)",
+        "Cream/Off-white (for backgrounds and labels)"
+      ],
+      "secondary_colors": [
+        "Earthy Browns (wood elements, natural landscapes)",
+        "Muted Blues (representing water and rivers of Mesopotamia)",
+        "Rich Red/Burgundy (for aged gin variants, evoking Malbec barrels)"
+      ],
+      "color_usage_rules": "Colors should consistently reflect the brand's natural origins, evoke warmth and sophistication, and highlight key botanicals. The tangerine orange is a signature accent."
+    },
+    "typography": {
+      "primary_font": "Elegant Serif (e.g., a classic serif with modern readability for headlines and key branding elements)",
+      "secondary_font": "Clean Sans-serif (e.g., a legible sans-serif for body text and functional information)",
+      "weights": {
+        "headlines": "Bold, Medium",
+        "body": "Regular",
+        "captions": "Light, Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Slightly open for headlines to convey elegance; standard for body text for optimal readability.",
+        "line_height": "Comfortable line height to ensure readability and a premium feel."
+      },
+      "hierarchy": [
+        "Clear distinction between primary headlines, secondary headings, and body text through size, weight, and color.",
+        "Brand name and key taglines should have the highest visual prominence."
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Flexible grid system that accommodates both structured product photography and dynamic lifestyle imagery, allowing for visual storytelling.",
+      "white_space_ratio": "Generous use of white space to convey a premium feel, enhance focus on the product and imagery, and ensure visual breathability.",
+      "image_vs_text_balance": "Image-heavy layouts, with concise, evocative text that complements the visuals rather than dominates them.",
+      "cta_placement": "Clear, prominent, and strategically placed Calls to Action (CTAs), often at the bottom or side of a layout, designed to be easily noticeable without being intrusive.",
+      "alignment": "Often centered or left-aligned for an elegant and balanced composition, depending on the specific layout and content."
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "Natural",
+        "Authentic",
+        "Evocative",
+        "Warm",
+        "Artisanal",
+        "Luminous",
+        "Sophisticated",
+        "Inviting",
+        "Rooted"
+      ],
+      "preferred_photographers": [
+        "Food and beverage photographers specializing in natural light and rich textures.",
+        "Lifestyle photographers capable of capturing genuine moments of enjoyment.",
+        "Nature photographers who can convey the essence of the Argentine Mesopotamia."
+      ],
+      "camera_feel": "Professional, high-resolution imagery, often utilizing a slightly shallow depth of field to create focus on the product or key elements, giving a premium and artistic feel.",
+      "pose_guidelines": "Models should exhibit natural, relaxed, and engaging poses that convey genuine enjoyment and connection. For product shots, the presentation should be clean, artful, and highlight the bottle's unique design and botanicals.",
+      "casting_attitude": "Confident, joyful, relaxed, and appreciative of quality. Models should appear sophisticated yet approachable, reflecting a discerning audience enjoying authentic moments."
+    },
+    "technical": {
+      "lighting": "Predominantly natural light, creating a warm and inviting atmosphere. Dramatic lighting may be used for premium or aged product variants to convey depth and sophistication.",
+      "contrast": "Medium to high contrast to enhance details, textures, and the vibrancy of colors, particularly botanicals and the gin itself.",
+      "grain": "Minimal to none, ensuring a clean, crisp, and premium visual aesthetic.",
+      "depth_of_field": "Often shallow, to isolate subjects (bottle, botanicals, cocktails) and create a sense of focus, drawing the viewer's eye to key elements.",
+      "color_grading": "Warm, rich, and natural tones. Color grading should enhance the inherent colors of the botanicals and the gin, maintaining an authentic and appealing palette."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Authentic and rooted in nature",
+      "Inviting and celebratory of shared moments",
+      "Premium and sophisticated",
+      "Warm and luminous"
+    ],
+    "preferred_locations": [
+      "Argentine Mesopotamian landscapes (rivers, lush greenery, citrus groves)",
+      "Sophisticated bars and lounges",
+      "Outdoor social settings (patios, terraces, gardens)",
+      "Cozy and elegant home environments",
+      "Artisanal distilleries or production sites"
+    ],
+    "contexts": [
+      "Social gatherings and celebrations",
+      "Relaxed evenings with friends or family",
+      "Crafting and enjoying cocktails",
+      "Special occasions like 'boozy brunches'",
+      "Moments of personal indulgence and appreciation"
+    ],
+    "model_casting": {
+      "age_range": "25-55",
+      "diversity": "Diverse in ethnicity, background, and style, representing a broad yet discerning audience that values quality and authentic experiences.",
+      "attitude": "Confident, joyful, relaxed, genuine, and appreciative of the quality and experience of Heredero Gin."
+    },
+    "product_presentation": {
+      "hero_visibility": "The product (bottle, cocktail) is always clearly visible and often serves as a central or prominent element in the composition.",
+      "styling_approach": "Elegant and minimalist, often accompanied by fresh, natural botanicals (tangerine slices, rosemary sprigs, juniper berries), and presented in appropriate, high-quality glassware. Emphasis on the unique bottle design.",
+      "avoid": [
+        "Cluttered or distracting backgrounds",
+        "Artificial-looking setups or props that detract from the product's natural essence",
+        "Excessive or unrealistic garnishes"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Smooth and fluid, conveying a sense of relaxed enjoyment. Dynamic cuts may be used for energetic moments, but the overall rhythm should remain unhurried.",
+      "transitions": "Elegant fades, subtle cuts, and natural camera movements that enhance the visual narrative without being abrupt or jarring."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Showcase natural ingredients and the unique botanicals.",
+        "Highlight the distinctive bottle design and its artisanal details.",
+        "Feature people genuinely enjoying Heredero Gin in authentic, aspirational settings.",
+        "Utilize warm, inviting, and natural lighting.",
+        "Emphasize the Argentine Mesopotamian origin through landscape and cultural cues."
+      ],
+      "visual_donts": [
+        "Use generic stock photography that lacks brand specificity.",
+        "Display excessive or irresponsible alcohol consumption.",
+        "Show unnatural or forced poses from models.",
+        "Employ harsh, artificial, or overly stylized lighting that detracts from naturalness."
+      ],
+      "copy_dos": [
+        "Tell the authentic story of the brand's origin and inspiration.",
+        "Describe the unique flavor notes and sensory experiences.",
+        "Evoke moments of enjoyment, celebration, and connection.",
+        "Consistently use taglines like 'Naturally Distinguished' and 'Creating great moments'."
+      ],
+      "copy_donts": [
+        "Make exaggerated or unsubstantiated claims about the product.",
+        "Use overly technical or inaccessible language.",
+        "Focus solely on alcohol content without emphasizing quality and experience.",
+        "Sound impersonal or generic in messaging."
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "The brand name 'Heredero Gin'.",
+        "The core message of Argentine Mesopotamian origin and the prominence of tangerine as a botanical.",
+        "The commitment to artisanal quality and natural ingredients.",
+        "The primary tagline '¡Creating great moments!'."
+      ],
+      "can_evolve": [
+        "Specific cocktail recipes and serving suggestions.",
+        "Campaign themes and visual executions within the established tone.",
+        "Product variations (e.g., new flavored gins, aged gins, ready-to-drink lines).",
+        "Digital interactive experiences and content formats."
+      ],
+      "test_zone": [
+        "New digital interactive experiences and augmented reality filters.",
+        "Collaborations with renowned mixologists or chefs for limited-edition creations.",
+        "Limited edition packaging designs for special releases."
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Premium packaging materials (e.g., high-quality paper, glass).",
+        "Natural wood elements and copper accents in displays, echoing the bottle closure.",
+        "Informative labels and brochures detailing the origin story and botanicals."
+      ],
+      "interactive_elements": [
+        "In-store tasting events and sampling opportunities.",
+        "Displays featuring fresh botanicals (tangerines, rosemary, juniper).",
+        "QR codes on packaging linking to cocktail recipes, brand story, or virtual experiences."
+      ],
+      "soundscape": "Relaxed, sophisticated lounge music or ambient sounds of nature (e.g., gentle river sounds, subtle bird calls) to evoke the Mesopotamian origin."
+    },
+    "digital": {
+      "tone_adjustment": "Maintain sophistication but allow for a slightly more dynamic and interactive approach, especially on social media platforms.",
+      "content_ratio": {
+        "campaign_vs_product": "60% campaign/lifestyle content, 40% direct product focus.",
+        "motion_vs_static": "50% motion content (videos, animations), 50% static imagery (photos, graphics) for a balanced and engaging feed."
+      },
+      "platform_behavior": {
+        "Instagram": "High-quality visual storytelling, short engaging videos, cocktail recipe tutorials, behind-the-scenes glimpses of botanicals and distillery, features of user-generated content, interactive stories and polls.",
+        "Website": "Comprehensive brand story, detailed product information for all gin variants, an online store, a dedicated section for cocktail recipes, event calendars, and contact information. High-resolution imagery and immersive multimedia elements.",
+        "Newsletter": "Exclusive content, early announcements of new products and limited editions, curated cocktail ideas, invitations to special events, and deeper dives into the brand's story and production process."
+      }
+    },
+    "print": {
+      "paper": "High-quality, often textured, matte-finish paper to convey a premium and natural tactile experience.",
+      "cover_rules": "Clean, impactful imagery with prominent logo placement and minimal, evocative text. Focus on a single hero image or a strong visual composition."
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": true,
+    "no_pricing_on_ads": true,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Stretching or distorting the logo's proportions.",
+      "Changing the official brand colors of the logo.",
+      "Placing the logo on busy or conflicting backgrounds without sufficient clear space.",
+      "Altering the typography or graphic elements within the logo."
+    ]
+  }
+}
