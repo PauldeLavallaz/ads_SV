@@ -1,0 +1,300 @@
+{
+  "brand_info": {
+    "name": "Franuí",
+    "tagline": "ENJOY THE PERFECT BITE. whenever you want, wherever you want and however you want.",
+    "category": "Premium Chocolate-Covered Fruit Snack",
+    "positioning": "Premium offering that balances indulgence with the growing demand for health-conscious products; a pioneering premium snacking experience.",
+    "vision": "To become a global brand, present in 80 markets by 2030, bringing a 'taste of Patagonia' to consumers worldwide.",
+    "mission": "To provide a snacking experience like no other, combining indulgence, convenience, and quality, while maintaining a focus on quality and sustainability, offering a delightful fusion of hand-picked raspberries, each enveloped in two layers of high-quality chocolate, with no preservatives, dyes, or artificial flavors.",
+    "origin_story": "Established in 2013 by Diego Fenoglio in Bariloche, Patagonia, Argentina. It originated from a family recipe for artisan chocolate, with Diego Fenoglio innovating by using raspberries grown in his backyard."
+  },
+  "brand_values": {
+    "core_values": [
+      "Quality",
+      "Authenticity",
+      "Indulgence",
+      "Natural Ingredients",
+      "Family Heritage"
+    ],
+    "brand_promise": "An unparalleled taste experience of fresh, hand-picked raspberries delicately coated in a double layer of ethically sourced, premium chocolate, free from preservatives or artificial flavors.",
+    "differentiators": [
+      "Original creators of chocolate-covered raspberry bites",
+      "Hand-picked, regeneratively farmed raspberries from Patagonia",
+      "Double layer of ethically sourced, high-quality chocolate",
+      "No preservatives, dyes, or artificial flavors",
+      "Family-run business with artisan chocolate heritage"
+    ],
+    "non_negotiables": [
+      "Use of 100% natural fruit",
+      "Use of pure, carefully selected cocoa for chocolate",
+      "Commitment to craftsmanship and taste",
+      "No artificial ingredients"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "25-55",
+      "gender": "All",
+      "income_level": "Mid to High"
+    },
+    "psychographics": {
+      "lifestyle": "Health-conscious, values quality and natural ingredients, seeks moments of indulgence, appreciates premium snacks and desserts.",
+      "values": [
+        "Quality",
+        "Authenticity",
+        "Naturalness",
+        "Enjoyment",
+        "Simplicity"
+      ],
+      "behavior": "Enjoys spontaneous treats, seeks convenient yet premium snacking options, shares experiences on social media, values ethical sourcing."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Indulgent",
+      "Authentic",
+      "Approachable",
+      "Delightful",
+      "Premium"
+    ],
+    "communication_style": "Direct, inviting, warm, emphasizing sensory pleasure and natural goodness.",
+    "language_register": "Accessible yet refined, avoiding overly casual slang or overly formal jargon.",
+    "preferred_structures": [
+      "Short, impactful sentences",
+      "Sensory descriptions",
+      "Questions inviting engagement",
+      "Statements of pure enjoyment"
+    ],
+    "avoid": [
+      "Overly technical terms",
+      "Exaggerated claims",
+      "Negative comparisons",
+      "Complex sentence structures"
+    ],
+    "emotional_temperature": "Warm, inviting, joyful, satisfying.",
+    "tone_dos": [
+      "Highlight natural ingredients",
+      "Emphasize sensory experience (taste, texture)",
+      "Encourage sharing and personal moments",
+      "Reinforce premium quality"
+    ],
+    "tone_donts": [
+      "Sound artificial or generic",
+      "Focus solely on health benefits without indulgence",
+      "Use overly aggressive sales language",
+      "Be overly serious or formal"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Wordmark 'Franuí' with a subtle, organic accent on the 'i', often accompanied by a small raspberry icon or stylized element.",
+      "usage_rules": "Maintain clear space around the logo, ensure legibility on all backgrounds, avoid distortion or alteration.",
+      "lockup_behavior": "Often appears standalone or integrated subtly within packaging and campaign visuals, not competing with the product hero.",
+      "safe_area": "Minimum clear space equivalent to the height of the 'f' in Franuí."
+    },
+    "color_system": {
+      "primary_colors": [
+        "Deep Raspberry Red (e.g., #C21807)",
+        "Rich Milk Chocolate Brown (e.g., #6F4E37)",
+        "Dark Chocolate Brown (e.g., #36221A)",
+        "Creamy White (e.g., #F5F5DC)"
+      ],
+      "secondary_colors": [
+        "Earthy Greens (for natural backdrops)",
+        "Soft Greys (for minimalist backgrounds)"
+      ],
+      "color_usage_rules": "Primary colors are dominant, reflecting the product. Secondary colors are used sparingly for natural context or clean backgrounds. High contrast for legibility."
+    },
+    "typography": {
+      "primary_font": "Sans-serif, clean and modern, with slight organic touches.",
+      "secondary_font": "Sans-serif, highly legible for body text.",
+      "weights": {
+        "headlines": "Bold to Semi-Bold",
+        "body": "Regular",
+        "captions": "Light to Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Standard to slightly open for headlines",
+        "line_height": "Comfortable for readability"
+      },
+      "hierarchy": [
+        "Brand Name (largest, distinct)",
+        "Tagline/Slogan (prominent, supportive)",
+        "Key Message (clear, concise)",
+        "Body Text (readable, informative)"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Flexible, often centered or rule-of-thirds for product focus.",
+      "white_space_ratio": "High, to emphasize product and create a premium, clean feel.",
+      "image_vs_text_balance": "Image-dominant, with text serving as concise support.",
+      "cta_placement": "Clear and prominent, typically at the bottom or right of the layout.",
+      "alignment": "Often centered or left-aligned for text, product is the central focus."
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "Appetizing",
+        "Natural",
+        "Indulgent",
+        "Fresh",
+        "Close-up",
+        "Sensory",
+        "Authentic"
+      ],
+      "preferred_photographers": [],
+      "camera_feel": "Intimate, inviting, capturing texture and detail.",
+      "pose_guidelines": "Product-focused, often showing interaction (hands holding, picking up, sharing). When people are present, poses are natural, relaxed, conveying genuine enjoyment and satisfaction.",
+      "casting_attitude": "Authentic, diverse, conveying natural happiness and appreciation for quality."
+    },
+    "technical": {
+      "lighting": "Soft, natural, often diffused, highlighting textures and creating a warm glow. Sometimes dramatic to emphasize chocolate sheen.",
+      "contrast": "Moderate to high, ensuring product details are crisp and colors vibrant.",
+      "grain": "Minimal to none, for a clean, premium feel.",
+      "depth_of_field": "Shallow, to keep the product in sharp focus and create a pleasing bokeh effect for backgrounds.",
+      "color_grading": "Warm and rich, enhancing the natural colors of raspberries and chocolate, avoiding overly cool or desaturated tones."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Inviting",
+      "Joyful",
+      "Premium",
+      "Natural",
+      "Sensory-rich"
+    ],
+    "preferred_locations": [
+      "Home settings (kitchens, living rooms)",
+      "Outdoor natural settings (gardens, picnics)",
+      "Clean, minimalist studio environments",
+      "Café or casual social settings"
+    ],
+    "contexts": [
+      "Everyday indulgence",
+      "Sharing moments with loved ones",
+      "Personal treat/reward",
+      "Dessert alternative",
+      "Snack on the go"
+    ],
+    "model_casting": {
+      "age_range": "Young adults to middle-aged adults (20s-50s)",
+      "diversity": "Inclusive of various ethnicities and backgrounds.",
+      "attitude": "Authentic, happy, satisfied, relaxed, enjoying the moment."
+    },
+    "product_presentation": {
+      "hero_visibility": "Always highly visible and central, often in close-up.",
+      "styling_approach": "Natural, appealing, sometimes showing a cross-section of the product or melted chocolate. Presented simply, often in its packaging or on a clean dish.",
+      "avoid": [
+        "Overly artificial or staged product setups",
+        "Cluttered backgrounds that distract from the product",
+        "Unrealistic portions or presentations"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Moderate to slow, allowing viewers to appreciate the product's details and the sensory experience.",
+      "transitions": "Smooth, natural, focusing on the product's journey from package to bite, or showing ingredients."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show close-ups of the product's texture and layers.",
+        "Feature natural light and warm tones.",
+        "Include hands interacting with the product.",
+        "Maintain clean and uncluttered compositions.",
+        "Emphasize the freshness of the raspberries."
+      ],
+      "visual_donts": [
+        "Use harsh or artificial lighting.",
+        "Clutter visuals with excessive elements.",
+        "Show the product in unappetizing contexts.",
+        "Use stock photography that doesn't align with brand aesthetic.",
+        "Depict unrealistic consumption scenarios."
+      ],
+      "copy_dos": [
+        "Use sensory language to describe taste and texture.",
+        "Highlight the natural and premium ingredients.",
+        "Connect the product to moments of joy and indulgence.",
+        "Emphasize the Patagonian origin and family heritage.",
+        "Be direct and inviting."
+      ],
+      "copy_donts": [
+        "Make unsubstantiated health claims.",
+        "Use overly complex or technical jargon.",
+        "Sound generic or uninspired.",
+        "Focus on negative aspects or comparisons.",
+        "Overuse exclamation points or emojis."
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Commitment to real fruit and premium chocolate.",
+        "Patagonian origin story.",
+        "Family-run business ethos.",
+        "Focus on quality and natural ingredients.",
+        "The core product offering (chocolate-covered raspberries)."
+      ],
+      "can_evolve": [
+        "New fruit and chocolate combinations (e.g., Franuí Pink).",
+        "Packaging designs (subtle adjustments to logo and imagery).",
+        "Campaign themes and creative executions.",
+        "Digital platform engagement strategies.",
+        "Expansion into new markets and distribution channels."
+      ],
+      "test_zone": [
+        "Limited edition flavor collaborations.",
+        "Interactive digital experiences (e.g., AR filters).",
+        "Partnerships with non-food lifestyle brands.",
+        "Experimental retail pop-up concepts.",
+        "New product formats beyond bites."
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "High-quality cardboard packaging with matte finish.",
+        "Clear windows to showcase product.",
+        "Chilled display units with prominent branding.",
+        "Informative shelf talkers highlighting origin and ingredients."
+      ],
+      "interactive_elements": [
+        "Sampling stations (where permissible).",
+        "Digital screens showcasing product journey from Patagonia.",
+        "QR codes linking to brand story or recipes."
+      ],
+      "soundscape": "Soft, inviting, perhaps subtle nature sounds or light, uplifting instrumental music."
+    },
+    "digital": {
+      "tone_adjustment": "Slightly more conversational and engaging for social media, maintaining premium feel.",
+      "content_ratio": {
+        "campaign_vs_product": "60% product-focused, 40% lifestyle/campaign.",
+        "motion_vs_static": "50% motion (short videos, reels), 50% static images."
+      },
+      "platform_behavior": {
+        "Instagram": "High-quality visuals, short engaging videos, influencer collaborations, user-generated content features, polls/stories for interaction.",
+        "Website": "Clean design, strong product imagery, detailed origin story, clear 'where to buy' information, recipe suggestions.",
+        "Newsletter": "Exclusive content, new product announcements, behind-the-scenes, special offers, direct links to purchase."
+      }
+    },
+    "print": {
+      "paper": "High-quality, often matte or semi-gloss stock for premium feel.",
+      "cover_rules": "Minimalist, product-centric, strong visual impact with clear branding."
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Stretching or distorting the logo.",
+      "Changing logo colors to non-brand palette.",
+      "Placing logo on busy or unapproved backgrounds.",
+      "Altering the 'i' accent.",
+      "Using outdated versions of the logo."
+    ]
+  }
+}
