@@ -45,18 +45,28 @@ def get_prompt_profiles() -> List[str]:
         return ["Default"]
 
 
-def load_master_prompt(profile_name: str) -> Tuple[Optional[str], Optional[str]]:
+def load_master_prompt(profile_name_or_content: str) -> Tuple[Optional[str], Optional[str]]:
     """
-    Load the master prompt from a JSON file
+    Load the master prompt from a JSON file OR accept inline content.
     
-    The entire content of the JSON file is used as the system instruction.
+    If the input looks like a master prompt (contains 'SYSTEM INSTRUCTION' or 'FUNNEL_STAGE'
+    or starts with prompt-like content), it's used directly as the system instruction.
+    Otherwise, it's treated as a filename to look up in configs/Product_to_Ads/.
     
     Args:
-        profile_name: The name of the profile (filename without .json extension)
+        profile_name_or_content: Either a profile name (e.g. 'Master_prompt_01_Awareness')
+                                  or the full master prompt text content.
         
     Returns:
         Tuple of (master_prompt_text, error_message)
     """
+    # Check if input is inline content (not a filename)
+    stripped = profile_name_or_content.strip()
+    if _is_inline_prompt_content(stripped):
+        return stripped, None
+    
+    # Otherwise treat as filename
+    profile_name = profile_name_or_content
     prompt_file = os.path.join(CONFIG_DIR, f"{profile_name}.json")
     
     if not os.path.exists(prompt_file):
@@ -80,6 +90,29 @@ def load_master_prompt(profile_name: str) -> Tuple[Optional[str], Optional[str]]
     except Exception as e:
         error_msg = f"Error loading master prompt: {e}"
         return _get_default_master_prompt(), error_msg
+
+
+def _is_inline_prompt_content(text: str) -> bool:
+    """Check if the input looks like inline prompt content rather than a filename."""
+    # Filenames are short and don't contain newlines
+    if '\n' in text:
+        return True
+    # Known prompt markers
+    prompt_markers = [
+        'SYSTEM INSTRUCTION',
+        'FUNNEL_STAGE',
+        'MULTIMODAL ADVERTISING',
+        '{{PRODUCT_JSON}}',
+        'scene_production_params',
+        'product_data',
+    ]
+    for marker in prompt_markers:
+        if marker in text:
+            return True
+    # If it's very long (>500 chars), it's likely content not a name
+    if len(text) > 500:
+        return True
+    return False
 
 
 def _get_default_master_prompt() -> str:
@@ -129,19 +162,37 @@ def get_brand_profiles() -> List[str]:
         return ["No Brand"]
 
 
-def load_brand_identity(brand_name: str) -> Tuple[Optional[Dict[str, Any]], Optional[str]]:
+def load_brand_identity(brand_name_or_json: str) -> Tuple[Optional[Dict[str, Any]], Optional[str]]:
     """
-    Load brand identity from a JSON file
+    Load brand identity from a JSON file OR accept inline JSON content.
+    
+    If the input looks like JSON (starts with '{'), it's parsed directly.
+    Otherwise, it's treated as a brand name to look up in configs/Brands/.
     
     Args:
-        brand_name: The name of the brand (filename without .json extension)
+        brand_name_or_json: Either a brand name (e.g. 'Nike') or a full
+                            brand identity JSON string.
         
     Returns:
         Tuple of (brand_identity_dict, error_message)
     """
-    if brand_name == "No Brand":
+    if not brand_name_or_json or brand_name_or_json.strip() in ("", "No Brand"):
         return None, None
     
+    stripped = brand_name_or_json.strip()
+    
+    # Check if input is inline JSON content
+    if stripped.startswith('{'):
+        try:
+            brand_data = json.loads(stripped)
+            brand_name = brand_data.get("brand_info", {}).get("name", "Inline Brand")
+            print(f"[Product to Ads] Loaded inline brand identity: {brand_name}")
+            return brand_data, None
+        except json.JSONDecodeError as e:
+            return None, f"Invalid inline brand JSON: {e}"
+    
+    # Otherwise treat as filename
+    brand_name = brand_name_or_json
     brand_file = os.path.join(BRANDS_DIR, f"{brand_name}.json")
     
     if not os.path.exists(brand_file):

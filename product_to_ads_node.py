@@ -79,11 +79,15 @@ class ProductToAdsManualNode:
                     "default": "",
                     "placeholder": "https://www.amazon.com/dp/... or any product page"
                 }),
-                "brand_profile": (brands, {
-                    "default": brands[0] if brands else "No Brand"
+                "brand_profile": ("STRING", {
+                    "multiline": True,
+                    "default": "No Brand",
+                    "placeholder": "Brand name (e.g. Nike) or full brand identity JSON"
                 }),
-                "prompt_profile": (profiles, {
-                    "default": profiles[0] if profiles else "Master_prompt_01_Awareness"
+                "prompt_profile": ("STRING", {
+                    "multiline": True,
+                    "default": "Master_prompt_01_Awareness",
+                    "placeholder": "Profile name (e.g. Master_prompt_01_Awareness) or full prompt text"
                 }),
                 "gemini_api_key": ("STRING", {
                     "multiline": False,
@@ -434,7 +438,22 @@ class ProductToAdsManualNode:
             if master_prompt:
                 master_prompt = master_prompt.replace("{{PRODUCT_JSON}}", product_data_json)
                 
-                funnel_stage = prompt_profile.split("_")[-1] if "_" in prompt_profile else "Awareness"
+                # Extract funnel stage: from profile name if short, or detect from prompt content
+                if len(prompt_profile) < 200 and "_" in prompt_profile:
+                    funnel_stage = prompt_profile.split("_")[-1]
+                else:
+                    # Try to detect stage from prompt content
+                    stage_markers = {
+                        "AWARENESS": "Awareness", "INTEREST": "Interest",
+                        "CONSIDERATION": "Consideration", "EVALUATION": "Evaluation",
+                        "CONVERSION": "Conversion", "RETENTION": "Retention",
+                        "LOYALTY": "Loyalty", "ADVOCACY": "Advocacy"
+                    }
+                    funnel_stage = "Awareness"  # default
+                    for marker, stage in stage_markers.items():
+                        if f"({marker} STAGE)" in master_prompt.upper():
+                            funnel_stage = stage
+                            break
                 master_prompt = master_prompt.replace("{{FUNNEL_STAGE}}", funnel_stage)
                 
                 if brief_result:
@@ -587,11 +606,15 @@ class ProductToAdsAutoNode:
                     "default": "",
                     "placeholder": "https://www.amazon.com/dp/... or any product page"
                 }),
-                "brand_profile": (brands, {
-                    "default": brands[0] if brands else "No Brand"
+                "brand_profile": ("STRING", {
+                    "multiline": True,
+                    "default": "No Brand",
+                    "placeholder": "Brand name (e.g. Nike) or full brand identity JSON"
                 }),
-                "prompt_profile": (profiles, {
-                    "default": profiles[0] if profiles else "Master_prompt_01_Awareness"
+                "prompt_profile": ("STRING", {
+                    "multiline": True,
+                    "default": "Master_prompt_01_Awareness",
+                    "placeholder": "Profile name (e.g. Master_prompt_01_Awareness) or full prompt text"
                 }),
                 "gemini_api_key": ("STRING", {
                     "multiline": False,
@@ -929,7 +952,22 @@ class ProductToAdsAutoNode:
             if master_prompt:
                 master_prompt = master_prompt.replace("{{PRODUCT_JSON}}", product_data_json)
                 
-                funnel_stage = prompt_profile.split("_")[-1] if "_" in prompt_profile else "Awareness"
+                # Extract funnel stage: from profile name if short, or detect from prompt content
+                if len(prompt_profile) < 200 and "_" in prompt_profile:
+                    funnel_stage = prompt_profile.split("_")[-1]
+                else:
+                    # Try to detect stage from prompt content
+                    stage_markers = {
+                        "AWARENESS": "Awareness", "INTEREST": "Interest",
+                        "CONSIDERATION": "Consideration", "EVALUATION": "Evaluation",
+                        "CONVERSION": "Conversion", "RETENTION": "Retention",
+                        "LOYALTY": "Loyalty", "ADVOCACY": "Advocacy"
+                    }
+                    funnel_stage = "Awareness"  # default
+                    for marker, stage in stage_markers.items():
+                        if f"({marker} STAGE)" in master_prompt.upper():
+                            funnel_stage = stage
+                            break
                 master_prompt = master_prompt.replace("{{FUNNEL_STAGE}}", funnel_stage)
                 
                 if brief_result:
