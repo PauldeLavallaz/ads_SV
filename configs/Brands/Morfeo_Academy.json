@@ -1,0 +1,297 @@
+{
+  "brand_info": {
+    "name": "Morfeo Academy",
+    "tagline": "La escuela creativa de IA generativa",
+    "category": "Online Education, Generative AI, Tech Education",
+    "positioning": "The definitive program for mastering generative AI, enabling individuals to design, operate, and sell AI content systems, and become elite creative AI developers.",
+    "vision": "To empower individuals to master generative AI, transform their future, and structure information to reduce overload and burnout, providing significant value to the creative and tech community.",
+    "mission": "To teach students to think, create, and automate like true creative developers by mastering ComfyUI and other industry-changing AI tools, providing access to comprehensive content, live classes, community support, and practical exercises to generate impactful visual content at scale.",
+    "origin_story": "Founded in November 2022 by Paul de Lavallaz, Morfeo Academy emerged from the intersection of creativity and automation, aiming to provide structured education in generative artificial intelligence, primarily focusing on platforms like ComfyUI, to help creatives, designers, brands, and agencies leverage AI for content creation and business growth."
+  },
+  "brand_values": {
+    "core_values": [
+      "Innovation",
+      "Creativity",
+      "Automation",
+      "Empowerment",
+      "Practicality",
+      "Scalability",
+      "Community"
+    ],
+    "brand_promise": "To equip individuals with the skills and systems to generate high-quality, consistent, and scalable visual content using generative AI, transforming their creative and business potential.",
+    "differentiators": [
+      "Focus on ComfyUI and advanced generative AI workflows",
+      "Emphasis on building scalable content systems, not just prompts",
+      "Community-driven learning with live classes and dedicated support",
+      "Practical, results-oriented curriculum with real-client workflows",
+      "Access to dedicated GPU resources for students"
+    ],
+    "non_negotiables": [
+      "Commitment to cutting-edge AI education",
+      "Emphasis on practical application and monetization",
+      "Fostering a supportive and active professional community",
+      "Continuous curriculum updates with industry advancements"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "25-55",
+      "gender": "All",
+      "income_level": "Mid to High (professionals, entrepreneurs, agency owners)"
+    },
+    "psychographics": {
+      "lifestyle": "Tech-savvy, entrepreneurial, creative professionals, digital marketers, e-commerce owners, content creators, designers, agency personnel.",
+      "values": [
+        "Efficiency",
+        "Innovation",
+        "Professional growth",
+        "Competitive advantage",
+        "Creative freedom",
+        "Scalability",
+        "Monetization"
+      ],
+      "behavior": "Actively seeking new technologies and skills, investing in professional development, looking for scalable solutions, early adopters of technology, interested in automation and digital transformation."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Authoritative",
+      "Empowering",
+      "Innovative",
+      "Direct",
+      "Confident",
+      "Practical",
+      "Forward-thinking"
+    ],
+    "communication_style": "Informative, instructional, aspirational, problem-solving, results-focused.",
+    "language_register": "Professional, technical (when necessary), accessible, encouraging.",
+    "preferred_structures": [
+      "Benefit-driven statements",
+      "Problem-solution narratives",
+      "Action-oriented calls to action",
+      "Numbered lists of features/outcomes"
+    ],
+    "avoid": [
+      "Overly casual language",
+      "Vague promises",
+      "Jargon without explanation",
+      "Negative framing of competitors",
+      "Passive voice"
+    ],
+    "emotional_temperature": "Enthusiastic and motivating, yet grounded in practical outcomes.",
+    "tone_dos": [
+      "Use strong verbs that convey action and transformation",
+      "Highlight tangible results and competitive advantages",
+      "Address audience pain points and offer clear solutions",
+      "Emphasize community and ongoing support"
+    ],
+    "tone_donts": [
+      "Sound condescending or overly academic",
+      "Make unsubstantiated claims",
+      "Use language that implies quick, effortless success without effort",
+      "Focus solely on features without linking to benefits"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Typically a modern, clean wordmark or an abstract symbol that evokes AI, creativity, or transformation. Often incorporates geometric shapes or subtle gradients. (Based on common AI education brand aesthetics and website observation)",
+      "usage_rules": "Clear space around the logo, consistent sizing, placement in headers and footers, on course materials, and promotional assets.",
+      "lockup_behavior": "Used independently or alongside the full brand name. May have a version with a tagline or a simplified icon.",
+      "safe_area": "Minimum clear space equivalent to the height of the 'M' in Morfeo."
+    },
+    "color_system": {
+      "primary_colors": [
+        "#000000",
+        "#FFFFFF",
+        "#4A90E2"
+      ],
+      "secondary_colors": [
+        "#50E3C2",
+        "#F5A623",
+        "#9B59B6"
+      ],
+      "color_usage_rules": "Primary colors for text, backgrounds, and key UI elements. Secondary colors for accents, CTAs, highlights, and to differentiate course modules or benefits. Gradients are used to convey modernity and digital aesthetic."
+    },
+    "typography": {
+      "primary_font": "Sans-serif (e.g., Montserrat, Inter, or similar modern geometric sans-serif)",
+      "secondary_font": "Sans-serif (a slightly different weight or style for contrast, or a monospaced font for code examples)",
+      "weights": {
+        "headlines": "Bold to Extra Bold",
+        "body": "Regular to Medium",
+        "captions": "Light to Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Tight to normal for headlines, normal for body text.",
+        "line_height": "Generous for readability, especially in body text and lists."
+      },
+      "hierarchy": [
+        "Large, bold headlines for impact and key messages.",
+        "Subheadings in medium weight for section breaks.",
+        "Body text in regular weight for detailed information.",
+        "Smaller, lighter text for captions and legal disclaimers."
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Modular grid system, often asymmetrical, allowing for dynamic content blocks and prominent image placement. Clean, structured, and modern.",
+      "white_space_ratio": "High, emphasizing clarity and focus on key information and visuals. Approximately 60-70% white space around primary elements.",
+      "image_vs_text_balance": "Visuals (especially AI-generated examples) often dominate, with concise, impactful text supporting them. Roughly 60% image, 40% text on key promotional pages.",
+      "cta_placement": "Prominent, often centered or right-aligned, using contrasting colors and clear, action-oriented language. Repeated at strategic points.",
+      "alignment": "Left-aligned for most text blocks, with some centered headlines or call-outs for emphasis."
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "Hyperrealistic",
+        "Futuristic",
+        "Conceptual",
+        "Dynamic",
+        "Polished",
+        "Innovative",
+        "Product-focused",
+        "Aspirational"
+      ],
+      "preferred_photographers": [],
+      "camera_feel": "Digital, high-resolution, often with a 'rendered' or 'CGI' aesthetic, showcasing the capabilities of generative AI. Clean, sharp focus.",
+      "pose_guidelines": "When human figures are present (AI-generated), poses are confident, engaged, often interacting with technology or products. Dynamic and aspirational, conveying mastery or innovation.",
+      "casting_attitude": "Diverse, modern, professional, intelligent, and forward-thinking individuals, often depicted in contexts of creation, learning, or success. (Implied through AI-generated model examples)."
+    },
+    "technical": {
+      "lighting": "Often dramatic or studio-like, with clear highlights and shadows to enhance realism and depth. Can include futuristic glows or digital light sources.",
+      "contrast": "High contrast to make details pop and create visual impact, especially for product renders and conceptual scenes.",
+      "grain": "Minimal to none, aiming for a clean, digital, and polished aesthetic.",
+      "depth_of_field": "Variable, used strategically to draw focus to key subjects (e.g., products, AI interfaces) while blurring backgrounds for artistic effect.",
+      "color_grading": "Vibrant and rich, often with a cool or neutral base, allowing accent colors to stand out. Can include subtle futuristic or digital color shifts."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Cutting-edge",
+      "Professional",
+      "Empowering",
+      "Transformative",
+      "Results-driven",
+      "Aspirational"
+    ],
+    "preferred_locations": [
+      "Clean, modern studio settings (for product mockups)",
+      "Futuristic digital landscapes",
+      "Abstract conceptual spaces",
+      "Urban professional environments (implied success)"
+    ],
+    "contexts": [
+      "Product visualization and e-commerce optimization",
+      "Brand identity creation and consistency",
+      "Interactive campaign development",
+      "Social media content generation",
+      "Creative automation workflows"
+    ],
+    "model_casting": {
+      "age_range": "Young adult to middle-aged (25-55), representing professionals and entrepreneurs.",
+      "diversity": "Ethnically and gender diverse, reflecting a global audience of creative professionals.",
+      "attitude": "Confident, focused, innovative, successful, engaged with technology."
+    },
+    "product_presentation": {
+      "hero_visibility": "High, products are often the central focus, rendered with hyperrealistic detail and presented in compelling, often imaginative scenarios.",
+      "styling_approach": "Clean, minimalist, or highly conceptual, depending on the desired effect. Products are styled to highlight their features and appeal in AI-generated environments.",
+      "avoid": [
+        "Cluttered backgrounds that distract from the product",
+        "Poorly rendered or unrealistic product textures",
+        "Generic stock-like product photography"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Dynamic and engaging, with quick cuts for showcasing diverse AI outputs, but also slower, deliberate movements to highlight complex generative processes or detailed results.",
+      "transitions": "Smooth, modern digital transitions. Can include generative AI effects like morphing or evolving visuals to demonstrate AI capabilities."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Showcase hyperrealistic AI-generated content",
+        "Emphasize the 'before and after' of AI transformation",
+        "Use clean, modern layouts with ample white space",
+        "Feature diverse, aspirational AI-generated models",
+        "Utilize vibrant, high-contrast color palettes"
+      ],
+      "visual_donts": [
+        "Use low-resolution or pixelated imagery",
+        "Feature outdated or generic stock photography",
+        "Employ cluttered or overly busy designs",
+        "Depict unrealistic or misleading AI capabilities",
+        "Use inconsistent visual styles"
+      ],
+      "copy_dos": [
+        "Focus on tangible benefits and measurable outcomes",
+        "Use empowering and confident language",
+        "Clearly articulate the value proposition of AI mastery",
+        "Promote community and continuous learning",
+        "Provide clear calls to action"
+      ],
+      "copy_donts": [
+        "Make vague or unsubstantiated claims",
+        "Use overly technical jargon without context",
+        "Employ passive or uninspiring language",
+        "Promise instant results without effort",
+        "Focus solely on features without linking to user benefits"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Commitment to generative AI education",
+        "Focus on practical, scalable solutions",
+        "High-quality, professional visual output",
+        "Empowering and innovative brand voice"
+      ],
+      "can_evolve": [
+        "Specific course offerings and content modules",
+        "Integration of new AI tools and platforms",
+        "Visual aesthetics (within the modern, clean framework)",
+        "Campaign themes and creative executions"
+      ],
+      "test_zone": [
+        "Experimental AI-generated visual styles",
+        "New interactive learning formats",
+        "Partnerships with emerging AI platforms",
+        "Community engagement initiatives"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [],
+      "interactive_elements": [],
+      "soundscape": ""
+    },
+    "digital": {
+      "tone_adjustment": "Consistent with core brand tone, but adapted for platform-specific engagement (e.g., more concise for social media, more detailed for website).",
+      "content_ratio": {
+        "campaign_vs_product": "60% campaign/aspirational content, 40% product/course-specific content.",
+        "motion_vs_static": "50% motion (video tutorials, AI animations, testimonials), 50% static (AI-generated images, infographics, text posts)."
+      },
+      "platform_behavior": {
+        "Instagram": "Visually driven, showcasing AI-generated art, product mockups, short video tutorials, success stories, and engaging questions. Use of reels and stories for dynamic content.",
+        "Website": "Comprehensive course information, detailed testimonials, blog posts on AI trends, interactive demos of AI capabilities, clear navigation, and strong CTAs.",
+        "Newsletter": "Exclusive tips, new course announcements, community highlights, curated AI news, and special offers. Direct, value-driven communication."
+      }
+    },
+    "print": {
+      "paper": "High-quality, smooth matte or semi-gloss paper for brochures or promotional materials, to best showcase AI-generated visuals.",
+      "cover_rules": "Clean, impactful design with a prominent AI-generated visual or a strong, concise headline. Minimal text, strong brand presence."
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Stretching or distorting the logo",
+      "Changing logo colors without approval",
+      "Placing the logo on busy backgrounds without clear space",
+      "Altering the logo's typography",
+      "Using outdated versions of the logo"
+    ]
+  }
+}
