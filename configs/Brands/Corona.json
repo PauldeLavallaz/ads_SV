@@ -1,0 +1,125 @@
+{
+  "brand_info": {
+    "name": "Corona Extra",
+    "tagline": "La Cerveza Más Fina",
+    "category": "Premium Mexican Beer",
+    "positioning": "The ultimate beach and relaxation beer, synonymous with tropical paradise, lime wedges, and carefree moments",
+    "vision": "To be the world's most loved beer brand, representing relaxation and escape",
+    "mission": "Bringing the beach state of mind to everyone, everywhere",
+    "origin_story": "Founded in 1925 by Cervecería Modelo in Mexico City. The clear bottle was revolutionary, showcasing the beer's golden clarity. The lime ritual became iconic worldwide."
+  },
+  "brand_values": {
+    "core_values": ["Relaxation", "Authenticity", "Simplicity", "Freedom", "Natural Beauty"],
+    "brand_promise": "A moment of escape and relaxation, wherever you are",
+    "differentiators": ["Clear bottle showcasing golden beer", "Lime ritual", "Mexican heritage", "Beach lifestyle association"],
+    "non_negotiables": ["Always associated with natural settings", "Never rushed or stressed imagery", "Lime wedge as iconic element"]
+  },
+  "target_audience": {
+    "demographics": {
+      "age": "21-45",
+      "gender": "All genders, slight male skew",
+      "income": "Middle to upper-middle class",
+      "occupation": "Professionals who value work-life balance"
+    },
+    "psychographics": {
+      "lifestyle": "Active, social, values experiences over things",
+      "values": "Freedom, authenticity, connection with nature",
+      "aspirations": "Escape from routine, beach lifestyle, genuine moments with friends"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": ["Relaxed", "Confident", "Warm", "Authentic", "Effortlessly cool"],
+    "communication_style": "Minimal text, let visuals speak. When words are used: simple, evocative, unhurried",
+    "language_register": "Casual yet premium. Never try-hard or aggressive",
+    "copy_patterns": ["Short phrases", "Imperative invitations", "Sensory language"],
+    "forbidden_language": ["Urgency words", "Sales speak", "Complex sentences", "Party/nightclub references"]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary": "Corona wordmark in gothic-style lettering",
+      "usage": "Bottom right corner, never dominant",
+      "clear_space": "Generous breathing room"
+    },
+    "color_system": {
+      "primary": ["#FECB00 (Corona Gold)", "#FFFFFF (White)", "#1E3A5F (Ocean Blue)"],
+      "secondary": ["#87CEEB (Sky Blue)", "#F4A460 (Sandy Tan)", "#228B22 (Lime Green)"],
+      "usage": "Warm golden tones dominate, blue as accent, lime green for freshness pops"
+    },
+    "typography": {
+      "primary": "Gothic/blackletter for logo only",
+      "secondary": "Clean sans-serif for any supporting text",
+      "hierarchy": "Minimal text, imagery leads"
+    },
+    "layout_principles": {
+      "composition": "Rule of thirds, horizon lines, vast negative space",
+      "visual_flow": "Eye drawn to product, then to environment, then to horizon",
+      "whitespace": "Generous, represents openness and freedom"
+    }
+  },
+  "photography": {
+    "style": {
+      "mood": "Golden hour warmth, relaxed, aspirational yet achievable",
+      "lighting": "Natural light always. Golden hour preferred. Backlit bottles showing clarity",
+      "composition": "Product integrated into lifestyle scenes, never isolated on white",
+      "color_grading": "Warm, slightly desaturated, sun-kissed skin tones",
+      "references": ["Slim Aarons", "Beach lifestyle photography", "Travel magazines"]
+    },
+    "technical": {
+      "depth_of_field": "Shallow for product hero shots, deep for environmental scenes",
+      "perspective": "Eye-level or slightly low angle for heroic product shots",
+      "focal_length": "35-85mm for lifestyle, 50mm for product detail"
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": "Relaxed paradise, authentic moments, natural beauty",
+    "model_casting": {
+      "demographics": "Diverse, 25-40, naturally attractive without being model-perfect",
+      "expression": "Genuine smiles, relaxed posture, sun-kissed skin",
+      "styling": "Casual beach/summer wear, linen, natural fabrics"
+    },
+    "product_presentation": {
+      "hero_moments": ["Bottle with lime in neck", "Ice-cold condensation drops", "Held against sunset"],
+      "integration": "Always in hand or within reach, never staged on pedestals",
+      "temperature_cues": "Condensation, ice, cooling steam"
+    },
+    "environment": {
+      "primary": ["Beach", "Ocean", "Sunset", "Rooftop with view", "Boat deck"],
+      "secondary": ["Backyard BBQ", "Pool", "Tropical garden"],
+      "avoid": ["Nightclubs", "Dark bars", "Urban grit", "Winter settings"]
+    },
+    "storytelling": {
+      "narrative_arc": "Escape → Arrival → Enjoyment → Connection",
+      "emotional_journey": "Anticipation → Relief → Contentment → Belonging",
+      "key_moments": ["First sip at sunset", "Sharing with friends", "Gazing at horizon"]
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "do": ["Show natural settings", "Feature the lime", "Use golden hour lighting", "Show genuine moments", "Feature diverse groups"],
+      "dont": ["Rush the viewer", "Show intoxication", "Use aggressive CTAs", "Feature nightclub scenes", "Isolate product on white"]
+    },
+    "immutability": {
+      "sacred_elements": ["Clear bottle visibility", "Lime association", "Beach/relaxation connection", "Mexican heritage pride"],
+      "flexible_elements": ["Specific location", "Time of day", "Group size", "Activity type"]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "pos_style": "Beach imagery, minimal text, product hero with lime",
+      "packaging": "Clear glass bottle, gold label, crown cap"
+    },
+    "digital": {
+      "social_tone": "Lifestyle imagery, user-generated content feel, minimal branding",
+      "video_style": "Slow motion, natural sounds (waves, laughter), golden palette"
+    },
+    "print": {
+      "layout": "Full-bleed imagery, logo bottom corner, minimal copy",
+      "paper": "Premium matte finish"
+    }
+  },
+  "compliance": {
+    "legal_requirements": "Must include responsible drinking messaging where required by law",
+    "age_restrictions": "Never target or depict underage individuals",
+    "geographic_restrictions": "Comply with local alcohol advertising regulations"
+  }
+}
