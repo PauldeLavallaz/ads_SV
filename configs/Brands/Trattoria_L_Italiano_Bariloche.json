@@ -1,0 +1,296 @@
+{
+  "brand_info": {
+    "name": "Trattoria L'Italiano Bariloche",
+    "tagline": "Descubre la auténtica cocina italiana en el corazón de Bariloche. Una experiencia gastronómica única.",
+    "category": "Italian Restaurant / Trattoria",
+    "positioning": "Authentic Italian dining experience in San Carlos de Bariloche, offering traditional homemade pasta, rich risottos, wood-fired pizzas, and a warm, welcoming atmosphere, focusing on quality, value, and creating memorable culinary journeys.",
+    "vision": "To be the quintessential destination for authentic Italian cuisine in Bariloche, creating cherished culinary memories for every guest.",
+    "mission": "To craft every meal with passion and precision, using fresh ingredients and heartwarming traditional Italian recipes, delivered with warm hospitality and exceptional service in an inviting environment.",
+    "origin_story": "Rooted in the rich heritage of Italian cooking, Trattoria L'Italiano prides itself on preparing dishes, especially pasta, with the patience and dedication of past generations, evoking the traditional methods of 'nonnas and nonnos'."
+  },
+  "brand_values": {
+    "core_values": [
+      "Authenticity",
+      "Tradition",
+      "Hospitality",
+      "Quality",
+      "Passion for Food",
+      "Value"
+    ],
+    "brand_promise": "An unforgettable gastronomic journey to Italy, filled with authentic flavors, generous portions, and a warm, welcoming atmosphere.",
+    "differentiators": [
+      "Homemade pasta crafted with traditional recipes",
+      "Warm and welcoming atmosphere with rustic Italian decor",
+      "Exceptional service from polite and attentive staff",
+      "Inclusive menu with gluten-free options",
+      "Good value for money with comprehensive meal offerings"
+    ],
+    "non_negotiables": [
+      "Authenticity of Italian recipes",
+      "Quality of fresh ingredients",
+      "Warm and attentive customer service",
+      "Inviting and cozy dining environment"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "25-65+",
+      "gender": "All",
+      "income_level": "Mid to Upper-Mid"
+    },
+    "psychographics": {
+      "lifestyle": "Food enthusiasts, travelers seeking authentic local experiences, families looking for comforting meals, couples desiring a cozy evening out.",
+      "values": [
+        "Tradition",
+        "Quality experiences",
+        "Comfort",
+        "Community",
+        "Good value"
+      ],
+      "behavior": "Dines out regularly, appreciates traditional cuisine, seeks recommendations, values a friendly atmosphere, enjoys sharing meals."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Warm",
+      "Authentic",
+      "Inviting",
+      "Passionate",
+      "Generous",
+      "Friendly"
+    ],
+    "communication_style": "Direct, descriptive, evocative, welcoming, emphasizing sensory experiences and heritage.",
+    "language_register": "Informal yet respectful, engaging, slightly poetic when describing food.",
+    "preferred_structures": [
+      "Sensory descriptions of food and ambiance",
+      "Narratives of tradition and heritage",
+      "Direct invitations to experience the restaurant",
+      "Highlighting customer testimonials"
+    ],
+    "avoid": [
+      "Overly formal or corporate language",
+      "Jargon",
+      "Cold or impersonal tone",
+      "Exaggerated claims without substance"
+    ],
+    "emotional_temperature": "Warm, joyful, comforting, nostalgic.",
+    "tone_dos": [
+      "Use words like 'authentic', 'homemade', 'passion', 'tradition', 'unforgettable'",
+      "Emphasize the sensory experience of dining",
+      "Highlight the welcoming nature of the staff and ambiance",
+      "Share stories of Italian heritage"
+    ],
+    "tone_donts": [
+      "Sound generic or uninspired",
+      "Focus solely on price without mentioning value",
+      "Use overly trendy or fleeting language",
+      "Neglect the human element of hospitality"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Likely a classic, perhaps slightly rustic, wordmark or emblem incorporating Italian motifs (e.g., wheat, a chef's hat, an Italian flag element).",
+      "usage_rules": "Clear space around the logo, consistent sizing across all applications, always legible.",
+      "lockup_behavior": "Used prominently on signage, menus, and digital headers. May appear subtly on tableware or staff uniforms.",
+      "safe_area": "Sufficient clear space to ensure readability and impact, proportional to the logo's size."
+    },
+    "color_system": {
+      "primary_colors": [
+        "Deep Red (evoking Italian flag/sauces)",
+        "Olive Green (evoking Italian flag/ingredients)",
+        "Cream/Beige (for warmth and background)"
+      ],
+      "secondary_colors": [
+        "Warm Brown (for wood/rustic elements)",
+        "Golden Yellow (for pasta/sunlight)",
+        "Charcoal Grey (for contrast/text)"
+      ],
+      "color_usage_rules": "Primary colors for branding and key accents. Secondary colors for warmth, texture, and supporting elements. Maintain a warm, inviting palette."
+    },
+    "typography": {
+      "primary_font": "Serif font with a classic, slightly rustic feel (e.g., a traditional Garamond or a more decorative script for headings).",
+      "secondary_font": "Clean, legible sans-serif for body text, complementing the primary font without competing.",
+      "weights": {
+        "headlines": "Bold or semi-bold for impact and hierarchy",
+        "body": "Regular for readability",
+        "captions": "Light or regular for subtle information"
+      },
+      "spacing": {
+        "letter_spacing": "Standard to slightly open for headlines, standard for body text.",
+        "line_height": "Comfortable for readability, especially in menus and descriptive text."
+      },
+      "hierarchy": [
+        "Brand Name/Logo (largest, most prominent)",
+        "Menu Item Names (large, distinct)",
+        "Dish Descriptions (smaller, clear)",
+        "Contact Information/Details (legible, functional)"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Flexible grid, allowing for both structured menu layouts and more organic, inviting photographic compositions.",
+      "white_space_ratio": "Moderate, allowing elements to breathe without feeling sparse; balances content with visual comfort.",
+      "image_vs_text_balance": "High emphasis on imagery, especially food and ambiance photos, balanced with descriptive text.",
+      "cta_placement": "Clear and prominent for reservations and contact information, often at the bottom or side of digital content.",
+      "alignment": "Typically centered or left-aligned for text, with imagery often taking a more dynamic or full-bleed approach."
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "Appetizing",
+        "Warm",
+        "Authentic",
+        "Inviting",
+        "Rustic",
+        "Generous",
+        "Candid",
+        "Lively"
+      ],
+      "preferred_photographers": [],
+      "camera_feel": "Natural, slightly intimate, capturing moments of enjoyment and the tactile quality of food.",
+      "pose_guidelines": "For food: natural, artfully arranged but not overly stylized, showing generous portions. For people: candid, relaxed, joyful, interacting with food and company. Staff: attentive, smiling, professional.",
+      "casting_attitude": "Genuine happiness, warmth, appreciation for food and company. Staff are welcoming and knowledgeable."
+    },
+    "technical": {
+      "lighting": "Warm, inviting, often soft ambient lighting with strategic highlights on food. Mimics natural evening light or cozy indoor settings.",
+      "contrast": "Moderate to high, to make food pop and enhance the richness of colors, while maintaining a soft overall feel for ambiance.",
+      "grain": "Minimal to none, for a clean, professional look, but not overly sterile.",
+      "depth_of_field": "Shallow to moderate, to focus attention on hero dishes or key elements in ambiance shots, blurring backgrounds to create intimacy.",
+      "color_grading": "Warm and rich, enhancing natural food colors (reds, greens, yellows) and the cozy atmosphere. Slightly desaturated backgrounds to keep focus on the main subject."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Authentic Italian dining experience",
+      "Warm and welcoming atmosphere",
+      "Focus on fresh, traditional ingredients",
+      "Celebration of shared meals and hospitality"
+    ],
+    "preferred_locations": [
+      "Restaurant interior (dining area, kitchen glimpses)",
+      "Table settings with prepared dishes",
+      "Exterior shots showcasing the Bariloche setting (if relevant to specific campaign)"
+    ],
+    "contexts": [
+      "Family gatherings",
+      "Romantic dinners",
+      "Friends enjoying a meal",
+      "Special occasions",
+      "Everyday indulgence"
+    ],
+    "model_casting": {
+      "age_range": "Children to seniors, reflecting a diverse clientele.",
+      "diversity": "Diverse groups of people, emphasizing inclusivity and broad appeal.",
+      "attitude": "Happy, engaged, relaxed, enjoying the food and company."
+    },
+    "product_presentation": {
+      "hero_visibility": "Dishes are the clear heroes, presented front and center, often in close-up.",
+      "styling_approach": "Rustic, natural, abundant. Food is presented as ready to eat, with steam or fresh garnishes. Table settings are inviting, not overly minimalist.",
+      "avoid": [
+        "Overly processed or artificial-looking food",
+        "Sparse or unappealing plating",
+        "Cold or uninviting presentation"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Moderate to slow, allowing viewers to appreciate details of food preparation, plating, and the dining experience. Smooth transitions.",
+      "transitions": "Gentle fades, subtle cuts, or slow pans to maintain a relaxed and inviting feel."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Showcase generous portions of food",
+        "Feature happy, interacting diners",
+        "Highlight the warm, rustic interior",
+        "Use warm, inviting lighting",
+        "Emphasize fresh ingredients and traditional preparation"
+      ],
+      "visual_donts": [
+        "Use sterile or overly modern aesthetics",
+        "Show empty or uninviting spaces",
+        "Feature cold or unappetizing food photography",
+        "Use stock photography that doesn't match the brand's authentic feel",
+        "Overly staged or unnatural poses"
+      ],
+      "copy_dos": [
+        "Use evocative language about taste and experience",
+        "Reinforce the 'authentic Italian' message",
+        "Highlight the hospitality and friendly service",
+        "Mention homemade pasta and traditional recipes",
+        "Invite customers to create memories"
+      ],
+      "copy_donts": [
+        "Use generic restaurant descriptions",
+        "Focus solely on price",
+        "Make unverified claims",
+        "Sound impersonal or detached",
+        "Use overly casual or unprofessional language"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Commitment to authentic Italian cuisine",
+        "Warm and welcoming atmosphere",
+        "High quality of food and service",
+        "Emphasis on traditional recipes and homemade pasta"
+      ],
+      "can_evolve": [
+        "Specific menu items (while maintaining core categories)",
+        "Interior decor updates (while retaining rustic Italian feel)",
+        "Digital marketing strategies and platforms"
+      ],
+      "test_zone": [
+        "Seasonal specials or limited-time offerings",
+        "New beverage pairings",
+        "Collaborations with local producers (if aligned with Italian theme)"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Wood",
+        "Terra cotta",
+        "Linen",
+        "Ceramic",
+        "Wrought iron"
+      ],
+      "interactive_elements": [
+        "Live music performances",
+        "Engaging staff recommendations",
+        "Open kitchen elements (if applicable)"
+      ],
+      "soundscape": "Soft Italian background music, lively but not overwhelming chatter, sounds of cooking from the kitchen."
+    },
+    "digital": {
+      "tone_adjustment": "Slightly more concise and visually driven for social media, more descriptive for website and newsletters.",
+      "content_ratio": {
+        "campaign_vs_product": "60% product/food focused, 40% ambiance/experience focused.",
+        "motion_vs_static": "70% static images (high-quality food shots), 30% motion (short videos of ambiance, food preparation, happy diners)."
+      },
+      "platform_behavior": {
+        "Instagram": "High-quality food photography, engaging stories of daily specials, behind-the-scenes glimpses, customer reposts, focus on visual appeal and short, enticing captions.",
+        "Website": "Comprehensive menu, reservation system, detailed 'about us' section, high-resolution gallery of food and interior, clear contact information, testimonials.",
+        "Newsletter": "Highlighting new dishes, special events, chef's notes, exclusive offers (non-discount), stories about Italian traditions, engaging and informative."
+      }
+    },
+    "print": {
+      "paper": "Textured, slightly matte paper for menus and flyers, evoking a rustic and quality feel.",
+      "cover_rules": "Clean design with prominent logo and appetizing food imagery. Minimal text, focusing on key offerings or a strong visual."
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Stretching or distorting the logo",
+      "Changing logo colors to non-brand palette",
+      "Placing the logo on busy or unreadable backgrounds",
+      "Using outdated versions of the logo"
+    ]
+  }
+}
