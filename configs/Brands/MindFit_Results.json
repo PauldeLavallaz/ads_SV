@@ -1,0 +1,288 @@
+{
+  "brand_info": {
+    "name": "MindFit®",
+    "tagline": "Adapt your mind.",
+    "category": "Mental Fitness App",
+    "positioning": "Leading the mental fitness movement, offering a proactive, accessible, and clinically-backed approach to building mental fitness.",
+    "vision": "To empower individuals with the tools they need to thrive in a complicated modern life and create a more mentally fit culture ready to handle our complex world.",
+    "mission": "To solve our mental health crisis with a new, proactive approach to building mental fitness using accessible, clinically-backed exercises.",
+    "origin_story": "Founded by Nicholas Singh, who, after experiencing severe anxiety at age 15, sought alternatives to sedatives. He adapted therapy exercises into a digital program called 'MindFit' with the help of scientific and clinical advisors. A 2023 pilot study validated the program's effectiveness."
+  },
+  "brand_values": {
+    "core_values": [
+      "Science-backed",
+      "Accessibility",
+      "Proactivity",
+      "Empowerment",
+      "Resilience",
+      "Growth"
+    ],
+    "brand_promise": "To provide clinically-backed tools and exercises that empower individuals to build mental fitness, manage stress, enhance emotional regulation, and improve overall well-being, leading to tangible, lasting results.",
+    "differentiators": [
+      "Clinically-backed exercises adapted from therapy settings",
+      "Focus on proactive mental fitness rather than just reactive treatment",
+      "Accessible digital platform for daily practice",
+      "Quantifiable results through pilot studies and progress tracking"
+    ],
+    "non_negotiables": [
+      "Scientific rigor and evidence-based practices",
+      "User accessibility and ease of use",
+      "Focus on positive mental health outcomes",
+      "Ethical communication regarding mental health claims"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "Adults (18+), with a broad appeal for 'Everyday Heroes' at any stage of life.",
+      "gender": "All genders",
+      "income_level": "Mid to upper-mid, seeking value in self-improvement and well-being tools"
+    },
+    "psychographics": {
+      "lifestyle": "Health-conscious, self-improving, proactive in personal development, seeking practical solutions for stress and mental well-being, digitally native or comfortable with app-based solutions.",
+      "values": [
+        "Well-being",
+        "Self-improvement",
+        "Resilience",
+        "Control",
+        "Productivity",
+        "Balance"
+      ],
+      "behavior": "Engages in self-care routines, uses digital tools for personal growth, seeks evidence-based solutions, values consistency in practice, open to new approaches for mental health."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Empowering",
+      "Supportive",
+      "Authoritative (science-backed)",
+      "Encouraging",
+      "Modern",
+      "Relatable"
+    ],
+    "communication_style": "Clear, direct, educational, empathetic, solution-oriented, using analogies to make complex concepts accessible.",
+    "language_register": "Informal yet professional, avoiding overly clinical jargon but maintaining credibility.",
+    "preferred_structures": [
+      "Benefit-driven statements",
+      "Action-oriented calls to action",
+      "Problem-solution narratives",
+      "Testimonials and success stories"
+    ],
+    "avoid": [
+      "Overly academic or complex language",
+      "Dismissive or judgmental tones",
+      "Sensationalism or quick-fix promises",
+      "Language that stigmatizes mental health challenges"
+    ],
+    "emotional_temperature": "Warm, reassuring, optimistic, yet grounded in reality and practical application.",
+    "tone_dos": [
+      "Use 'we' and 'you' to foster connection",
+      "Emphasize empowerment and personal agency",
+      "Highlight scientific backing and real-world results",
+      "Employ metaphors that resonate with physical fitness"
+    ],
+    "tone_donts": [
+      "Sound condescending or overly clinical",
+      "Make unsubstantiated claims",
+      "Focus solely on problems without offering solutions",
+      "Use language that implies weakness or failure"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "A stylized 'M' or brain-like icon, often integrated with the brand name 'MindFit®'. Clean, modern, and possibly incorporating subtle gradients or a sense of flow.",
+      "usage_rules": "Maintain clear space, ensure legibility across all sizes, use on approved backgrounds only.",
+      "lockup_behavior": "Logo mark and logotype are typically used together, with the registered trademark symbol® clearly visible. Variations for small applications or social media may use the icon alone.",
+      "safe_area": "Minimum clear space equivalent to 'x' height of the logotype around all sides."
+    },
+    "color_system": {
+      "primary_colors": [
+        "Deep Blues (representing calm, trust, professionalism)",
+        "Teals/Greens (representing growth, well-being, freshness)"
+      ],
+      "secondary_colors": [
+        "Soft Greys (for neutrality, backgrounds, text)",
+        "Subtle Yellows/Oranges (for accents, energy, calls to action)"
+      ],
+      "color_usage_rules": "Primary colors dominate for brand recognition and conveying core values. Secondary colors are used for highlights, data visualization, and to guide user attention. Avoid overly bright or jarring combinations."
+    },
+    "typography": {
+      "primary_font": "Modern sans-serif (e.g., a clean, legible font like Montserrat, Lato, or similar)",
+      "secondary_font": "A complementary sans-serif or a slightly more humanist sans-serif for body text, ensuring readability.",
+      "weights": {
+        "headlines": "Bold or Semi-Bold",
+        "body": "Regular or Medium",
+        "captions": "Light or Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Tight to normal for headlines, normal for body text.",
+        "line_height": "Generous for readability, especially in body copy and app interface."
+      },
+      "hierarchy": [
+        "Large, bold headlines for impact and key messages.",
+        "Clear subheadings to break up content.",
+        "Legible body text for detailed information and instructions.",
+        "Smaller, lighter text for captions and legal disclaimers."
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Clean, modular grid system for consistent alignment and organization of content, especially within the app interface and data presentation.",
+      "white_space_ratio": "High, emphasizing clarity, focus, and a sense of calm. Ample white space around elements to prevent visual clutter.",
+      "image_vs_text_balance": "Balanced, with images and graphics supporting textual information. App screenshots and data visualizations are prominent alongside concise text.",
+      "cta_placement": "Prominent and easily identifiable, often centered or at the end of key sections, using contrasting colors.",
+      "alignment": "Left-aligned for most text, with some central alignment for headlines or key calls to action."
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "Authentic",
+        "Relatable",
+        "Calm",
+        "Focused",
+        "Diverse",
+        "Positive",
+        "Lifestyle-oriented",
+        "Natural"
+      ],
+      "preferred_photographers": [],
+      "camera_feel": "Clean, modern, slightly warm, with a focus on natural light and genuine expressions. Not overly staged or artificial.",
+      "pose_guidelines": "Natural, relaxed, engaged in thoughtful activities (e.g., meditating, working, exercising with a focused expression), or simply smiling genuinely. Avoid overly dramatic or distressed poses.",
+      "casting_attitude": "Confident, serene, thoughtful, engaged, and approachable. Reflects a sense of inner strength and well-being."
+    },
+    "technical": {
+      "lighting": "Soft, natural, and even lighting. Avoid harsh shadows or overexposure. Emphasize a bright, optimistic feel.",
+      "contrast": "Medium to high, ensuring clarity and vibrancy without being overly dramatic. Good separation between subjects and backgrounds.",
+      "grain": "Minimal to none, maintaining a clean and polished digital aesthetic.",
+      "depth_of_field": "Shallow to medium, to keep focus on the subject while providing a soft, pleasing background blur.",
+      "color_grading": "Natural and slightly warm, enhancing skin tones and creating an inviting atmosphere. Consistent color palette across all visuals."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Empowering",
+      "Hopeful",
+      "Achievable",
+      "Relatable",
+      "Professional"
+    ],
+    "preferred_locations": [
+      "Modern, clean indoor spaces (e.g., home, office, quiet studio)",
+      "Natural outdoor settings (e.g., parks, calm landscapes) suggesting tranquility and balance",
+      "App interface screenshots"
+    ],
+    "contexts": [
+      "Individuals engaging with the app on various devices",
+      "People in moments of calm or focus (e.g., meditating, deep work)",
+      "Individuals overcoming daily challenges with a sense of composure",
+      "Diverse groups interacting positively, suggesting improved relationships"
+    ],
+    "model_casting": {
+      "age_range": "Broad, from young adults to middle-aged individuals, reflecting the 'Everyday Heroes' concept.",
+      "diversity": "High, representing various ethnicities, body types, and backgrounds to ensure broad relatability.",
+      "attitude": "Authentic, positive, confident, and serene. Conveying a sense of inner peace and capability."
+    },
+    "product_presentation": {
+      "hero_visibility": "The app interface and its features are clearly visible and central when the product is shown. Screenshots are high-fidelity.",
+      "styling_approach": "Clean, minimalist, and functional. Focus on the user experience and the benefits derived from using the app. Contextual use of the app in daily life scenarios.",
+      "avoid": [
+        "Overly complex or cluttered visuals",
+        "Misleading representations of app functionality",
+        "Exaggerated or unrealistic outcomes"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Calm and steady, with smooth transitions. Reflects the journey of mental growth and mindfulness. Occasional moments of dynamic energy to convey progress.",
+      "transitions": "Seamless, soft fades, subtle wipes, or gentle zooms that maintain a sense of flow and professionalism. Avoid abrupt cuts or flashy effects."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show diverse individuals in natural, positive settings.",
+        "Feature clear, high-quality app screenshots and UI elements.",
+        "Utilize infographics to convey data and results effectively.",
+        "Maintain a clean, uncluttered aesthetic with ample white space.",
+        "Use consistent brand colors and typography across all visuals."
+      ],
+      "visual_donts": [
+        "Use overly dramatic or distressed imagery.",
+        "Feature stock photos that look generic or inauthentic.",
+        "Clutter layouts with too many elements.",
+        "Use inconsistent color palettes or typography.",
+        "Depict unrealistic or instantaneous transformations."
+      ],
+      "copy_dos": [
+        "Emphasize empowerment, growth, and practical skills.",
+        "Highlight scientific backing and pilot study results.",
+        "Use clear, empathetic, and encouraging language.",
+        "Frame mental fitness as a proactive, lifelong journey.",
+        "Include testimonials that speak to real-world benefits."
+      ],
+      "copy_donts": [
+        "Make medical claims or promise cures.",
+        "Use jargon that alienates the general audience.",
+        "Focus on fear or negative consequences without offering solutions.",
+        "Over-promise or guarantee specific outcomes.",
+        "Sound judgmental or dismissive of mental health struggles."
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Commitment to science-backed methods",
+        "Focus on proactive mental fitness",
+        "Empathetic and supportive tone",
+        "Clean and accessible visual aesthetic",
+        "Brand name and core logo mark"
+      ],
+      "can_evolve": [
+        "Specific visual styles and trends (e.g., illustration styles)",
+        "Campaign themes and narratives",
+        "App features and UI design",
+        "Secondary color palette accents"
+      ],
+      "test_zone": [
+        "New interactive content formats (e.g., AR filters, gamification)",
+        "Partnerships with influencers or public figures",
+        "Exploration of new digital platforms for engagement",
+        "Variations in tagline for specific campaigns"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [],
+      "interactive_elements": [],
+      "soundscape": ""
+    },
+    "digital": {
+      "tone_adjustment": "Consistent with core brand tone, but adapted for platform-specific nuances (e.g., more concise for social media, more detailed for website).",
+      "content_ratio": {
+        "campaign_vs_product": "60% campaign-driven content (benefits, testimonials, educational) / 40% product-focused content (app features, how-to guides).",
+        "motion_vs_static": "50% motion (short videos, animated infographics, app demos) / 50% static (images, text-based posts, infographics)."
+      },
+      "platform_behavior": {
+        "Instagram": "Visually appealing, short, engaging videos and static posts. Focus on inspirational quotes, quick tips, user testimonials, and app highlights. Use stories for interactive elements (polls, Q&A).",
+        "Website": "Comprehensive information, detailed explanations of methodology, scientific backing, user journey, FAQs, and clear calls to action for app download/test. High-quality visuals and intuitive navigation.",
+        "Newsletter": "Educational content, deeper dives into mental fitness topics, progress updates, exclusive tips, community stories, and soft calls to action for continued engagement with the app."
+      }
+    },
+    "print": {
+      "paper": "High-quality, matte finish for professional and trustworthy feel. Recycled options where possible to align with conscious values.",
+      "cover_rules": "Clean, minimalist design with prominent logo and key message. Use of primary brand colors and a single, impactful image or graphic. Focus on clarity and immediate recognition."
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": false,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Stretching or distorting the logo proportions.",
+      "Using the logo on busy or unapproved backgrounds.",
+      "Altering the logo's colors or adding unauthorized effects.",
+      "Removing the ® symbol when used with the brand name.",
+      "Placing the logo too close to other graphic elements without sufficient clear space."
+    ]
+  }
+}
