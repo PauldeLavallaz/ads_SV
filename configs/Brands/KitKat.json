@@ -1,0 +1,299 @@
+{
+  "brand_info": {
+    "name": "KitKat",
+    "tagline": "Have a break... have a Kit Kat!",
+    "category": "Confectionery",
+    "positioning": "An essential companion for much-needed moments of respite and relaxation in busy lives, synonymous with taking a break and enjoyment.",
+    "vision": "To be the leading nutrition, health, and wellness company in the world (as part of Nestlé). For KitKat specifically, it is positioned as the world's favorite break, an international symbol for hitting the pause button on life to enjoy a well-earned break.",
+    "mission": "To provide consumers with the best tasting, most nutritious choices in a wide range of food and beverage categories and eating occasions (as part of Nestlé's 'Good Food, Good Life' mission). To enhance the quality of life and contribute to a healthier future (as part of Nestlé).",
+    "origin_story": "Founded in the 1930s by British confectionery company Rowntree's in the United Kingdom. Launched in September 1935 as 'Rowntree's Chocolate Crisp' after a worker suggested 'a chocolate bar that a man could take to work in his pack up'. Renamed Kit Kat Chocolate Crisp in 1937, and simply Kit Kat after World War II."
+  },
+  "brand_values": {
+    "core_values": [
+      "Relaxation",
+      "Enjoyment",
+      "Simplicity",
+      "Accessibility",
+      "Innovation (especially in flavors and experiences)",
+      "Sustainability (through Nestlé Cocoa Plan)"
+    ],
+    "brand_promise": "To provide a delightful and satisfying break from daily routines and demands.",
+    "differentiators": [
+      "Iconic 'snap' and wafer texture",
+      "Universal recognition of 'Have a Break' tagline",
+      "Wide variety of flavors and formats globally",
+      "Association with moments of personal pause and enjoyment"
+    ],
+    "non_negotiables": [
+      "The core 'Have a Break' message",
+      "The distinct chocolate and wafer combination",
+      "Commitment to quality and taste",
+      "Ethical sourcing (Nestlé Cocoa Plan)"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "All ages (from children to adults)",
+      "gender": "All genders",
+      "income_level": "Middle to lower-income classes (affordable treat), broader for premium offerings"
+    },
+    "psychographics": {
+      "lifestyle": "Busy, seeking moments of escape, appreciative of simple pleasures, digitally engaged, value convenience",
+      "values": [
+        "Self-care",
+        "Balance",
+        "Connection (with others during breaks)",
+        "Humor",
+        "Mindfulness (in taking a break)"
+      ],
+      "behavior": "Frequent snacking, uses breaks to recharge, engages with social media, seeks small indulgences"
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Friendly",
+      "Approachable",
+      "Witty",
+      "Playful",
+      "Empathetic",
+      "Encouraging"
+    ],
+    "communication_style": "Direct, lighthearted, conversational, often uses humor and relatable scenarios.",
+    "language_register": "Informal to semi-formal, accessible, avoids jargon.",
+    "preferred_structures": [
+      "Short, punchy sentences",
+      "Call-to-action phrases (e.g., 'Have a break')",
+      "Questions that invite reflection on needing a break",
+      "Humorous narratives"
+    ],
+    "avoid": [
+      "Overly serious or academic language",
+      "Complex or abstract concepts",
+      "Negative or critical tones",
+      "Preachy or demanding language"
+    ],
+    "emotional_temperature": "Warm, positive, uplifting, comforting.",
+    "tone_dos": [
+      "Be relatable to everyday stresses",
+      "Offer KitKat as a simple solution for a break",
+      "Use playful and clever wordplay",
+      "Encourage moments of pause and enjoyment"
+    ],
+    "tone_donts": [
+      "Sound condescending or preachy about taking breaks",
+      "Focus solely on product features without linking to the 'break' benefit",
+      "Use overly complex or intellectual humor",
+      "Be overly aggressive in sales messaging"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Red oval with white 'KitKat' text, often with a white outline. Sometimes a smaller, simpler red rectangle with white text.",
+      "usage_rules": "Must be clearly visible, often placed in a corner or at the bottom of the frame. Maintained consistent proportions and color.",
+      "lockup_behavior": "Often paired with the 'Have a break, have a Kit Kat' tagline. Can appear alone or integrated into packaging/campaign visuals.",
+      "safe_area": "Sufficient clear space around the logo to ensure legibility and prominence."
+    },
+    "color_system": {
+      "primary_colors": [
+        "KitKat Red (dominant packaging color)",
+        "Chocolate Brown (representing the product)",
+        "White (for text and contrast)"
+      ],
+      "secondary_colors": [
+        "Cream/Light Beige (wafer representation)",
+        "Vibrant accent colors (for specific flavors or campaign themes, e.g., green for matcha, pink for ruby chocolate)"
+      ],
+      "color_usage_rules": "Primary red is consistently used for brand recognition. Secondary colors support product variations or campaign moods while maintaining brand consistency. Bright and inviting palettes are preferred."
+    },
+    "typography": {
+      "primary_font": "Sans-serif, bold, rounded, friendly (e.g., similar to Arial Rounded MT Bold or custom brand font)",
+      "secondary_font": "Clean, legible sans-serif for body copy (e.g., Arial, Helvetica)",
+      "weights": {
+        "headlines": "Bold, heavy",
+        "body": "Regular, medium",
+        "captions": "Regular, light"
+      },
+      "spacing": {
+        "letter_spacing": "Standard to slightly loose for headlines, standard for body.",
+        "line_height": "Comfortable, allowing for readability."
+      },
+      "hierarchy": [
+        "Brand name/tagline (largest, boldest)",
+        "Campaign headline",
+        "Body copy/product information",
+        "Legal/small print"
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Flexible, often centered or rule-of-thirds for key elements, allowing for dynamic and engaging compositions.",
+      "white_space_ratio": "Moderate to high, ensuring clarity and preventing clutter, giving elements room to 'breathe'.",
+      "image_vs_text_balance": "Image-dominant, with text supporting the visual narrative. Product shots are central.",
+      "cta_placement": "Clear and prominent, typically at the bottom right or center-bottom of the layout.",
+      "alignment": "Often center-aligned for headlines and key messages, left-aligned for body text for readability."
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "Authentic",
+        "Relatable",
+        "Vibrant",
+        "Candid",
+        "Appetizing",
+        "Dynamic",
+        "Humorous"
+      ],
+      "preferred_photographers": [],
+      "camera_feel": "Natural, often eye-level or slightly elevated to capture human interaction and product detail. Sometimes uses a slightly wider lens for environmental context.",
+      "pose_guidelines": "Relaxed, natural, expressive of relief or enjoyment. Hands often shown holding, unwrapping, or breaking the KitKat. Active poses before the break, calm/happy poses during the break.",
+      "casting_attitude": "Diverse, friendly, approachable, genuine expressions of emotion (frustration, then joy/calm)."
+    },
+    "technical": {
+      "lighting": "Bright, natural, often soft daylight or studio lighting to highlight product texture and appeal. Avoids harsh shadows on the product.",
+      "contrast": "Medium to high, ensuring clarity and vibrancy without being overly dramatic.",
+      "grain": "Minimal to none, aiming for a clean and polished look.",
+      "depth_of_field": "Shallow to medium, often focusing on the KitKat bar or the person interacting with it, blurring backgrounds to emphasize the subject.",
+      "color_grading": "Warm and inviting, enhancing the natural colors of chocolate and packaging, creating an appealing and comforting mood."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Optimistic",
+      "Lighthearted",
+      "Empathetic",
+      "Playful",
+      "Relatable"
+    ],
+    "preferred_locations": [
+      "Everyday settings (offices, homes, public transport, parks, cafes)",
+      "Situations depicting mild stress or busy-ness",
+      "Relaxing environments (e.g., a quiet corner, outdoors)",
+      "Social gatherings (friends sharing)"
+    ],
+    "contexts": [
+      "Work breaks",
+      "Study breaks",
+      "Travel delays",
+      "Digital detox moments",
+      "Moments of personal indulgence",
+      "Celebratory occasions (seasonal campaigns)"
+    ],
+    "model_casting": {
+      "age_range": "Broad, from young adults to middle-aged individuals, sometimes children for family-oriented campaigns.",
+      "diversity": "Ethnically and culturally diverse, reflecting global consumer base.",
+      "attitude": "Authentic, relatable, expressive of everyday emotions (stress, relief, joy, contentment)."
+    },
+    "product_presentation": {
+      "hero_visibility": "Always prominent and clearly visible, often in the foreground or central to the composition. The 'snap' is a key visual element.",
+      "styling_approach": "Clean, simple, focus on the product's iconic shape and texture. Often shown unwrapped or partially unwrapped, ready to be eaten. Sometimes integrated into a larger scene naturally.",
+      "avoid": [
+        "Product being obscured or secondary to other elements",
+        "Unrealistic or overly staged product placements",
+        "Product looking messy or unappetizing"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Starts with a slightly faster pace depicting busy-ness or frustration, then slows down to emphasize the moment of the break and enjoyment.",
+      "transitions": "Smooth, often cutting from a chaotic scene to a calm one, or focusing on the act of breaking and eating the KitKat. Visual metaphors for 'breaking free' are common."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show people genuinely enjoying their break with KitKat",
+        "Highlight the iconic 'snap' and wafer texture",
+        "Use bright, appealing colors and lighting",
+        "Depict relatable everyday scenarios",
+        "Ensure the KitKat product is clearly visible and appetizing"
+      ],
+      "visual_donts": [
+        "Show people stressed or unhappy while consuming KitKat",
+        "Obscure the product or make it difficult to identify",
+        "Use dull or uninviting color palettes",
+        "Present unrealistic or unrelatable situations",
+        "Feature messy or unappealing product shots"
+      ],
+      "copy_dos": [
+        "Reinforce the 'Have a Break' message consistently",
+        "Use warm, friendly, and encouraging language",
+        "Connect KitKat to moments of relaxation and enjoyment",
+        "Employ clever and witty wordplay",
+        "Be concise and easy to understand"
+      ],
+      "copy_donts": [
+        "Use jargon or overly complex language",
+        "Sound demanding or pushy",
+        "Focus on negative emotions without offering a solution",
+        "Deviate from the core 'break' proposition",
+        "Be overly verbose or lengthy"
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "The 'Have a break, have a Kit Kat' tagline",
+        "The core product form (chocolate-covered wafer fingers)",
+        "The brand's association with taking a moment to pause and recharge",
+        "The red and white color scheme of the primary logo"
+      ],
+      "can_evolve": [
+        "Flavor variations and limited editions",
+        "Packaging designs (while retaining core elements)",
+        "Campaign themes and creative executions (e.g., 'Break Better', AI campaign)",
+        "Digital and social media engagement strategies"
+      ],
+      "test_zone": [
+        "New product formats beyond traditional bars",
+        "Partnerships with unexpected brands or technologies",
+        "Highly localized campaigns with unique cultural adaptations",
+        "Interactive experiences that redefine the 'break' concept"
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Eye-catching displays (often red)",
+        "Point-of-sale materials highlighting the 'break' message",
+        "Promotional signage for new flavors/campaigns",
+        "Shelf-talkers emphasizing convenience"
+      ],
+      "interactive_elements": [
+        "Sampling stations",
+        "Digital screens showing campaign videos",
+        "QR codes for contests or exclusive content",
+        "Themed displays for seasonal products"
+      ],
+      "soundscape": "Upbeat, light, and pleasant music, or ambient sounds of relaxation/enjoyment. The iconic jingle (in US) or 'snap' sound."
+    },
+    "digital": {
+      "tone_adjustment": "More informal and interactive on social media, slightly more informative on the website.",
+      "content_ratio": {
+        "campaign_vs_product": "60% campaign-driven, 40% product-focused (including new flavors/formats)",
+        "motion_vs_static": "70% motion (short videos, GIFs), 30% static images (product shots, lifestyle)"
+      },
+      "platform_behavior": {
+        "Instagram": "Visually driven, high-quality imagery and short, engaging videos. Focus on lifestyle, humor, and product appeal. Uses stories and reels for interactive content.",
+        "Website": "Comprehensive brand information, product catalog, history, sustainability efforts, campaign archives. Clear navigation and appealing visuals.",
+        "Newsletter": "Updates on new products, exclusive offers, behind-the-scenes content, links to campaigns and brand stories. Friendly and informative tone."
+      }
+    },
+    "print": {
+      "paper": "High-quality, glossy paper for advertisements and promotional materials to enhance visual appeal and product texture.",
+      "cover_rules": "Bold imagery, clear brand logo and tagline, minimal text, strong visual impact to capture attention quickly."
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Distorting the logo's proportions",
+      "Changing the brand's primary red color",
+      "Placing the logo on busy or clashing backgrounds without sufficient clear space",
+      "Using outdated versions of the logo",
+      "Altering the typeface of the 'KitKat' wordmark"
+    ]
+  }
+}
