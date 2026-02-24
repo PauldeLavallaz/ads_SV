@@ -1,0 +1,301 @@
+{
+  "brand_info": {
+    "name": "LUZU TV",
+    "tagline": "Estamos dónde hay que estar. Somos lo que queremos ser.",
+    "category": "Streaming Television Channel",
+    "positioning": "A leading independent streaming service that connects emotionally with a young audience, fostering an active and committed community through authentic, dynamic, and participatory content, breaking with traditional media standards.",
+    "vision": "To transform communication with young people through social media, establishing a solid, significant bond with its audience by empathizing deeply with their interests, values, and cultural preferences.",
+    "mission": "To create and deliver live entertainment programming, primarily through digital platforms, emphasizing community-driven broadcasting, authenticity, and opportunities for young talents, offering a dynamic and participatory space for enjoyment, laughter, rest, and sharing daily experiences.",
+    "origin_story": "Founded in 2020 by conductor and producer Nicolás Occhiato, emerging during the COVID-19 pandemic as a new streaming medium to transform communication with young audiences."
+  },
+  "brand_values": {
+    "core_values": [
+      "Authenticity",
+      "Community",
+      "Entertainment",
+      "Innovation",
+      "Relatability",
+      "Youth Empowerment"
+    ],
+    "brand_promise": "To provide a genuine, interactive, and entertaining digital space where young audiences can connect, laugh, and feel understood.",
+    "differentiators": [
+      "Community-driven broadcasting",
+      "Authentic and unscripted content",
+      "Emphasis on young talent",
+      "Direct audience interaction",
+      "Breaking traditional media formats"
+    ],
+    "non_negotiables": [
+      "Authenticity in content",
+      "Respect for community interaction",
+      "Commitment to dynamic entertainment",
+      "Relevance to youth culture"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "18-35 years (primarily 18-34)",
+      "gender": "All genders",
+      "income_level": "Unspecified, accessible to digitally connected consumers"
+    },
+    "psychographics": {
+      "lifestyle": "Digitally native, socially active, seeking engaging and authentic content, interested in current trends and informal discussions, values connection and humor.",
+      "values": [
+        "Authenticity",
+        "Community",
+        "Humor",
+        "Connection",
+        "Relatability",
+        "Breaking traditional norms"
+      ],
+      "behavior": "Active on social media (YouTube, Instagram, TikTok, Twitch), consumes content on-demand and live, interacts with content creators, seeks entertainment and companionship through digital media."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Authentic",
+      "Humorous",
+      "Relatable",
+      "Informal",
+      "Dynamic",
+      "Engaging",
+      "Spontaneous"
+    ],
+    "communication_style": "Direct, conversational, interactive, unscripted, community-focused.",
+    "language_register": "Informal, colloquial, contemporary Spanish (Argentine dialect).",
+    "preferred_structures": [
+      "Direct questions to audience",
+      "Exclamations",
+      "Conversational flow",
+      "Use of slang and internet memes"
+    ],
+    "avoid": [
+      "Formal language",
+      "Overly polished or artificial tone",
+      "Condescension",
+      "Overly serious or preachy topics",
+      "Ignoring audience feedback"
+    ],
+    "emotional_temperature": "Warm, enthusiastic, friendly, empathetic, energetic.",
+    "tone_dos": [
+      "Foster community and interaction",
+      "Use humor and lightheartedness",
+      "Be authentic and transparent",
+      "Address the audience directly",
+      "Reflect current cultural trends"
+    ],
+    "tone_donts": [
+      "Be overly critical or negative",
+      "Sound inauthentic or rehearsed",
+      "Disregard audience contributions",
+      "Use overly complex or academic language",
+      "Appear detached from youth culture"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Simple, modern sans-serif typography, often in white or a single color, with 'LUZU' prominently featured and 'TV' as a secondary element.",
+      "usage_rules": "Maintain clear space around the logo, preserve aspect ratio, use on contrasting backgrounds for visibility.",
+      "lockup_behavior": "Often appears as 'LUZU TV' or integrated into program titles and promotional materials.",
+      "safe_area": "Minimum clear space equal to the X-height of the logo's typography."
+    },
+    "color_system": {
+      "primary_colors": [
+        "White",
+        "Black",
+        "Vibrant Blue"
+      ],
+      "secondary_colors": [
+        "Grays",
+        "Accent colors for program differentiation (e.g., bright yellow, magenta)"
+      ],
+      "color_usage_rules": "Primary colors for core branding and text, secondary colors for highlights, calls to action, and differentiating program identities."
+    },
+    "typography": {
+      "primary_font": "Modern sans-serif (e.g., similar to Montserrat or Open Sans for digital legibility).",
+      "secondary_font": "A complementary sans-serif for specific elements or a bolder variant of the primary font.",
+      "weights": {
+        "headlines": "Bold to Heavy",
+        "body": "Regular to Medium",
+        "captions": "Light to Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Normal, slightly open for headlines.",
+        "line_height": "Comfortable for digital readability, slightly increased for longer texts."
+      },
+      "hierarchy": [
+        "Clear distinction in size and weight for titles, subtitles, and body text",
+        "Consistent use of color for emphasis."
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Flexible, adaptive grid system optimized for responsive digital platforms (web, mobile, app).",
+      "white_space_ratio": "Generous use of white space to ensure clarity, focus on content, and prevent visual clutter.",
+      "image_vs_text_balance": "High emphasis on dynamic visual content (video thumbnails, live streams) balanced with concise, engaging text overlays and descriptions.",
+      "cta_placement": "Prominent and clear, often integrated into video end screens, social media post captions, and website navigation.",
+      "alignment": "Left-aligned for text blocks, dynamic alignment for visual elements to create engaging compositions."
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "Candid",
+        "Authentic",
+        "Dynamic",
+        "Spontaneous",
+        "Engaging",
+        "Intimate",
+        "Natural",
+        "Behind-the-scenes"
+      ],
+      "preferred_photographers": "In-house production team, videographers specializing in live streaming and unscripted content capture.",
+      "camera_feel": "Often handheld or fluid camera movements, creating an intimate and direct perspective.",
+      "pose_guidelines": "Natural, unposed, expressive, conversational, reflecting genuine interactions and reactions.",
+      "casting_attitude": "Energetic, charismatic, relatable, diverse in personality, enthusiastic, approachable."
+    },
+    "technical": {
+      "lighting": "Bright, natural-looking studio lighting, often with soft fill lights to minimize harsh shadows.",
+      "contrast": "Moderate to high, ensuring visual pop and clarity across various digital screens.",
+      "grain": "Minimal to none, aiming for clean, high-definition digital footage.",
+      "depth_of_field": "Varied, from shallow for intimate subject focus to deeper for showing the studio environment and group interactions.",
+      "color_grading": "Natural, vibrant, true-to-life colors, with occasional subtle stylistic tints to enhance mood without being overly dramatic."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Energetic",
+      "Fun",
+      "Authentic",
+      "Community-oriented",
+      "Dynamic",
+      "Relatable",
+      "Spontaneous"
+    ],
+    "preferred_locations": [
+      "Studio sets",
+      "On-location for special events or vlogs",
+      "Informal social settings",
+      "Public spaces for audience interaction"
+    ],
+    "contexts": [
+      "Live show segments",
+      "Behind-the-scenes content",
+      "Interviews with hosts/guests",
+      "Audience interaction moments",
+      "Special events and external broadcasts"
+    ],
+    "model_casting": {
+      "age_range": "18-35 years",
+      "diversity": "Diverse in personalities, backgrounds, and styles, reflecting a broad appeal to youth culture.",
+      "attitude": "Enthusiastic, expressive, relatable, charismatic, approachable, genuine"
+    },
+    "product_presentation": {
+      "hero_visibility": "Clearly visible, often worn by hosts or featured casually within content.",
+      "styling_approach": "Casual, comfortable, integrated into everyday wear and lifestyle.",
+      "avoid": [
+        "Overly formal or staged product shots",
+        "Aggressive sales tactics",
+        "Disruptive product placement."
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Dynamic and varied, with quick cuts for engaging moments and longer takes for conversational segments.",
+      "transitions": "Smooth, often quick cuts, sometimes with simple graphic overlays or wipes."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Show genuine interaction and emotion",
+        "Utilize vibrant and clear visuals",
+        "Highlight community engagement",
+        "Feature hosts and guests prominently in natural settings",
+        "Maintain high production quality for digital streaming."
+      ],
+      "visual_donts": [
+        "Present overly staged or artificial scenes",
+        "Use poor lighting or low-quality graphics",
+        "Employ static or unengaging visuals for promotional content",
+        "Obscure the hosts or audience interaction."
+      ],
+      "copy_dos": [
+        "Be conversational and approachable",
+        "Incorporate humor and lightheartedness",
+        "Encourage audience participation and feedback",
+        "Maintain authenticity and transparency",
+        "Reflect current cultural trends and youth interests."
+      ],
+      "copy_donts": [
+        "Adopt a formal or overly corporate tone",
+        "Use jargon or exclusionary language",
+        "Be overtly promotional or sales-driven in content",
+        "Express negativity or dismissiveness towards audience",
+        "Sound inauthentic or rehearsed."
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Core values of authenticity, community, and entertainment",
+        "Informal and direct tone of voice",
+        "Focus on engaging the young adult audience",
+        "Commitment to live and interactive streaming format."
+      ],
+      "can_evolve": [
+        "Specific program formats and content themes",
+        "Visual aesthetics (within established brand guidelines)",
+        "Talent roster and guest appearances",
+        "Technological platforms and interactive features."
+      ],
+      "test_zone": [
+        "Experimental content formats (e.g., new show genres)",
+        "New interactive features for audience participation",
+        "Collaborations with other creators or brands outside typical partnerships",
+        "Expansion into new geographical markets or languages."
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Comfortable fabrics for apparel (e.g., cotton, fleece)",
+        "Durable materials for accessories (e.g., ceramic for mugs, metal for keychains)."
+      ],
+      "interactive_elements": [
+        "Online store with user-friendly interface",
+        "Community feedback mechanisms for merchandise design",
+        "Promotional offers and bundles."
+      ],
+      "soundscape": "N/A - The brand's soundscape is primarily its live stream audio and program content."
+    },
+    "digital": {
+      "tone_adjustment": "Consistent informal, engaging, and authentic tone across all digital platforms, adapted for platform-specific content formats (e.g., shorter for TikTok, more detailed for YouTube descriptions).",
+      "content_ratio": {
+        "campaign_vs_product": "High ratio of campaign/content (program clips, behind-the-scenes, host interactions) to direct product (merchandise) promotion.",
+        "motion_vs_static": "Predominantly motion content (live streams, video clips, reels, shorts) with static images used for announcements or social media posts."
+      },
+      "platform_behavior": {
+        "Instagram": "Short engaging video clips, stories, behind-the-scenes glimpses, interactive polls, photos of hosts/guests, community highlights.",
+        "Website": "Central hub for live streams, program schedules, archives, merchandise store, 'about us' information, contact.",
+        "Newsletter": "Updates on new programs, special guests, upcoming events, exclusive community content, behind-the-scenes insights."
+      }
+    },
+    "print": {
+      "paper": "Not a primary channel; if used for promotional materials, likely matte or uncoated stock for a natural, approachable feel.",
+      "cover_rules": "Prominent logo, engaging imagery of hosts/guests, clear program titles, minimal text for impact."
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": false,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Stretching or distorting the logo's aspect ratio",
+      "Altering primary brand colors",
+      "Placing the logo on busy or clashing backgrounds without sufficient clear space",
+      "Adding unauthorized elements or effects to the logo",
+      "Using outdated versions of the logo."
+    ]
+  }
+}
