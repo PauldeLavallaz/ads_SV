@@ -156,7 +156,8 @@
       ],
       "camera_feel": "Studio product photography or CGI render. Card is always large, centered, and in perfect focus. No complex scenes. Think Cash App, Karta, DolarApp visual language.",
       "pose_guidelines": "If people appear, only hands or partial body — holding the card naturally. No full-body lifestyle shots. The card is the subject, not the person.",
-      "casting_attitude": "Minimal human presence. Prefer card-only or card + minimal background. When hands are needed: natural, clean, modern. No 'stock photo' energy."
+      "casting_attitude": "Minimal human presence. Prefer card-only or card + minimal background. When hands are needed: natural, clean, modern. No 'stock photo' energy.",
+      "official_reference": "https://raw.githubusercontent.com/PauldeLavallaz/ads_SV/main/assets/bitget/refs/ref-official-card-photo.jpg — Use this as primary style reference: dark navy setting, hand with stylish nails picking up cyan card from silver reflective tray, disco/mirror balls, neon cyan light, amber cocktail glass. Premium nightlife fintech aesthetic."
     },
     "technical": {
       "lighting": "Studio lighting that makes the card shine. Dramatic single-source light on dark backgrounds, or clean even light on solid color backgrounds. Card should look premium and tactile.",
@@ -168,12 +169,13 @@
   },
   "campaign_guidelines": {
     "visual_tone": [
-      "Graphic and bold — not lifestyle photography",
-      "Card is ALWAYS the hero element, large and centered",
-      "Typography overlaid on image — bold, white or cyan",
-      "Dark navy or solid Bitget blue/cyan backgrounds",
-      "CGI/3D elements welcome: floating coins, digital particles, glassmorphism",
-      "Clean, premium fintech feel — think Cash App meets Karta"
+      "Graphic and bold — card is ALWAYS the hero",
+      "Dark navy or deep blue backgrounds — rich and premium",
+      "Card prominently held by hand OR floating as product shot — alternate between both",
+      "Each asset must have a DIFFERENT visual concept — no repeated props across assets",
+      "CGI/3D elements welcome: digital particles, glassmorphism, neon glows",
+      "Lifestyle nightlife energy: dark settings, neon cyan/teal accents, mirror balls, premium textures",
+      "Think: premium fintech meets Buenos Aires nightlife — elegant, not cheap"
     ],
     "preferred_locations": [
       "Studio with solid dark navy or cyan background",
@@ -217,6 +219,26 @@
     "motion_rules": {
       "pacing": "Clean, minimal motion. Card reveal, subtle float, or bold text animation.",
       "transitions": "Smooth, digital, premium."
+    },
+    "avoid": [
+      "Repeating the same props (copa/copa de vino, bandeja) across multiple assets",
+      "Generic stock photography",
+      "Busy backgrounds competing with the card",
+      "Same composition repeated — each asset must feel visually distinct",
+      "Overly corporate or boring compositions",
+      "People as the main subject — card or hand+card is the star"
+    ],
+    "composition_variety": {
+      "asset_by_asset": "Each generated asset MUST have a unique visual approach",
+      "options": [
+        "Hand picking up card from reflective surface — nightlife setting",
+        "Card floating mid-air against solid gradient — pure product shot",
+        "Card on dark surface with neon glow and particles",
+        "Card held between fingers, blurred city/travel background",
+        "Overhead flat lay of card — minimal dark surface",
+        "Card reflected in glass/water surface — premium texture",
+        "Close-up card macro with bokeh lights background"
+      ]
     }
   },
   "brand_behavior": {
