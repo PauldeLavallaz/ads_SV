@@ -1,0 +1,312 @@
+{
+  "brand_info": {
+    "name": "Bitget",
+    "tagline": "Trade smarter",
+    "category": "Cryptocurrency Exchange and Web3 Company",
+    "positioning": "A leading cryptocurrency exchange and Web3 company, evolving into a Universal Exchange (UEX) that integrates crypto, real-world assets, AI-powered tools, and traditional finance on a single platform, known for pioneering copy trading and a user-first approach.",
+    "vision": "To create user-centric products that grant everyone equal access to a blockchain-based future, empowering more people to embrace crypto and make smarter trades, ultimately transforming into a public company valued in the hundreds of billions by integrating global financial markets through a Universal Exchange.",
+    "mission": "To inspire individuals to embrace crypto with simple yet powerful tools, simplify cryptocurrency trading and make advanced financial tools accessible to a broader audience, breaking barriers to financial participation and equipping users with Wall Street-grade trading capabilities.",
+    "origin_story": "Founded in 2018 during a bear market by early adopters who believed in a blockchain-based future, Bitget focused on product innovation and a user-first approach, quickly gaining traction with its derivatives trading and pioneering copy trading features."
+  },
+  "brand_values": {
+    "core_values": [
+      "Users first",
+      "Integrity and honesty",
+      "Open communication",
+      "Deliver results",
+      "Innovation",
+      "Security",
+      "Accessibility",
+      "Empowerment"
+    ],
+    "brand_promise": "To provide a secure, efficient, and smart digital trading experience that empowers users to achieve financial freedom and trade smarter across a unified global asset platform.",
+    "differentiators": [
+      "Pioneering copy trading feature",
+      "Universal Exchange (UEX) integrating crypto, RWA, AI, and traditional finance",
+      "Strong emphasis on security and user protection fund",
+      "AI-powered trading tools (e.g., GetClaw)",
+      "Global partnerships with major sports figures and organizations"
+    ],
+    "non_negotiables": [
+      "User security and asset protection",
+      "Regulatory compliance",
+      "Product innovation",
+      "Transparency",
+      "User-centric design"
+    ]
+  },
+  "target_audience": {
+    "demographics": {
+      "age_range": "25-55",
+      "gender": "All",
+      "income_level": "Mid to High (individuals with disposable income for investment and trading)"
+    },
+    "psychographics": {
+      "lifestyle": "Tech-savvy, financially aspirational, interested in modern investment opportunities, active in digital communities, potentially interested in sports and gaming.",
+      "values": [
+        "Financial independence",
+        "Innovation",
+        "Security",
+        "Growth",
+        "Efficiency",
+        "Accessibility",
+        "Empowerment through technology"
+      ],
+      "behavior": "Engages in online trading, seeks advanced financial tools, follows market trends, values community insights (copy trading), early adopter of new technologies, seeks platforms with strong security and diverse offerings."
+    }
+  },
+  "tone_of_voice": {
+    "personality_traits": [
+      "Confident",
+      "Innovative",
+      "Empowering",
+      "Secure",
+      "Dynamic",
+      "Professional",
+      "Aspirational"
+    ],
+    "communication_style": "Direct, informative, forward-looking, educational, community-oriented, authoritative on market trends and technology.",
+    "language_register": "Formal to semi-formal, technical where necessary but with clear explanations, accessible to both experienced traders and informed beginners.",
+    "preferred_structures": [
+      "Benefit-driven statements",
+      "Action-oriented calls",
+      "Problem-solution frameworks",
+      "Statements emphasizing security and innovation",
+      "Community success stories"
+    ],
+    "avoid": [
+      "Overly casual language",
+      "Sensationalism",
+      "Guarantees of profit",
+      "Complex jargon without simplification",
+      "Negative comparisons with competitors"
+    ],
+    "emotional_temperature": "Optimistic, reassuring, empowering, with a sense of urgency for market opportunities.",
+    "tone_dos": [
+      "Emphasize user control and smart decision-making",
+      "Highlight security measures and protection funds",
+      "Showcase technological advancements and new features",
+      "Foster a sense of community and shared success",
+      "Provide clear, actionable information"
+    ],
+    "tone_donts": [
+      "Use fear-mongering tactics",
+      "Sound condescending or overly academic",
+      "Make unsubstantiated claims",
+      "Be vague about risks",
+      "Focus solely on technical details without user benefits"
+    ]
+  },
+  "visual_identity": {
+    "logo": {
+      "primary_logo": "Bitget wordmark and abstract 'B' icon, often in blue/purple gradients or white.",
+      "usage_rules": "Consistent color application, clear space around the logo, no distortion or alteration of proportions, always legible against backgrounds.",
+      "lockup_behavior": "Often paired with the tagline 'Trade smarter' or 'Crypto For Everyone' (for wallet) in a clear, horizontal or stacked lockup. Integrated seamlessly into campaign visuals without being obscured.",
+      "safe_area": "Minimum clear space equivalent to a defined unit (e.g., 'X' height of the logo's typography) on all sides."
+    },
+    "color_system": {
+      "primary_colors": [
+        "Deep Blue (#0A1F44 or similar dark blue)",
+        "Vibrant Blue/Purple Gradient (e.g., #00C4FF to #A855F7)"
+      ],
+      "secondary_colors": [
+        "White",
+        "Light Grays",
+        "Accent Greens/Yellows (for positive indicators or highlights)"
+      ],
+      "color_usage_rules": "Primary blue/purple gradients are used for brand emphasis, digital elements, and backgrounds. White and light grays provide contrast and readability. Accent colors are used sparingly for calls to action or data visualization."
+    },
+    "typography": {
+      "primary_font": "Sans-serif (modern, clean, highly legible, similar to Montserrat or Inter)",
+      "secondary_font": "Sans-serif (complementary to primary, for body text, ensuring readability)",
+      "weights": {
+        "headlines": "Bold to Extra Bold",
+        "body": "Regular to Medium",
+        "captions": "Light to Regular"
+      },
+      "spacing": {
+        "letter_spacing": "Tight to normal for headlines, normal for body text.",
+        "line_height": "Generous for readability, especially in body text."
+      },
+      "hierarchy": [
+        "Large, bold headlines for impact and key messages.",
+        "Subheadings in a slightly lighter weight or smaller size for categorization.",
+        "Clear, readable body text for detailed information.",
+        "Smaller, lighter captions for supplementary details."
+      ]
+    },
+    "layout_principles": {
+      "grid_system": "Modular grid system for structured and organized content, allowing for flexibility in image and text placement.",
+      "white_space_ratio": "Generous use of white space to ensure clarity, reduce clutter, and highlight key elements. Approximately 40-50% white space.",
+      "image_vs_text_balance": "Balanced, often with strong visual imagery dominating the upper half or left side, complemented by concise text. Product-focused layouts may have more text explaining features.",
+      "cta_placement": "Prominent and clear, often in the lower right or center of a visual field, using contrasting colors.",
+      "alignment": "Left-aligned text for readability, with central alignment used for impactful headlines or short statements."
+    }
+  },
+  "photography": {
+    "style": {
+      "keywords": [
+        "Dynamic",
+        "Aspirational",
+        "Futuristic",
+        "Authentic (for user-focused)",
+        "High-energy",
+        "Professional",
+        "Confident"
+      ],
+      "preferred_photographers": [],
+      "camera_feel": "Modern, high-resolution, often wide-angle shots for expansive feel, or close-ups for emotional connection. Professional studio or on-location shoots.",
+      "pose_guidelines": "Confident, determined, active, or thoughtful poses. Athletes in action, individuals looking directly at the camera with a sense of purpose, or interacting with digital interfaces. Avoid passive or overly casual poses.",
+      "casting_attitude": "Diverse, aspirational, confident, focused, intelligent, representing a global user base. Celebrities and athletes convey peak performance and success."
+    },
+    "technical": {
+      "lighting": "Often dramatic, high-key or low-key with strong contrasts. Uses digital glows and spotlights to emphasize subjects or technological elements. Natural light for more authentic, user-focused shots.",
+      "contrast": "High contrast, especially between subjects and backgrounds, and between digital elements and darker tones, to create visual impact and depth.",
+      "grain": "Minimal to none, aiming for a clean, sharp, and polished look.",
+      "depth_of_field": "Shallow to medium depth of field to keep subjects in sharp focus while subtly blurring backgrounds, creating a professional and cinematic feel.",
+      "color_grading": "Cool tones (blues, purples) are dominant, often with a slight desaturation for a sophisticated, futuristic feel. Warm accents may be used sparingly for human elements or specific calls to action."
+    }
+  },
+  "campaign_guidelines": {
+    "visual_tone": [
+      "Empowering and aspirational",
+      "Technologically advanced",
+      "Secure and trustworthy",
+      "Global and inclusive",
+      "Dynamic and energetic"
+    ],
+    "preferred_locations": [
+      "Modern urban environments (cityscapes, high-tech offices)",
+      "Abstract digital landscapes",
+      "Sports arenas/stadiums",
+      "Clean, minimalist studio settings",
+      "Diverse everyday settings for 'Crypto For Everyone' messaging"
+    ],
+    "contexts": [
+      "Financial trading and investment",
+      "Web3 and blockchain innovation",
+      "Sports and competitive excellence",
+      "Personal financial growth and empowerment",
+      "Community and global connectivity"
+    ],
+    "model_casting": {
+      "age_range": "25-55, with some younger demographics for educational initiatives.",
+      "diversity": "High emphasis on ethnic, gender, and geographical diversity to reflect a global user base.",
+      "attitude": "Confident, intelligent, focused, determined, successful, approachable (for wallet)."
+    },
+    "product_presentation": {
+      "hero_visibility": "High visibility, often central or prominently featured, showcasing key features or UI elements clearly.",
+      "styling_approach": "Clean, modern, and sophisticated. Digital interfaces are presented with clarity and intuitive design. Physical products (e.g., crypto cards) are shown with premium finishes.",
+      "avoid": [
+        "Outdated or clunky interfaces",
+        "Overly complex or cluttered product shots",
+        "Misleading representations of product functionality"
+      ]
+    },
+    "motion_rules": {
+      "pacing": "Dynamic and engaging, with a mix of fast cuts for excitement and slower, deliberate movements for clarity and emphasis. Smooth transitions.",
+      "transitions": "Clean, digital transitions (wipes, fades, subtle graphic overlays). Avoid abrupt or jarring cuts unless for specific dramatic effect."
+    }
+  },
+  "brand_behavior": {
+    "do_dont": {
+      "visual_dos": [
+        "Use vibrant blue/purple gradients and digital elements.",
+        "Feature confident and diverse individuals.",
+        "Maintain high contrast and clean layouts.",
+        "Integrate the logo clearly and consistently.",
+        "Showcase technological innovation and security."
+      ],
+      "visual_donts": [
+        "Use dull or muted color palettes.",
+        "Feature outdated or generic stock imagery.",
+        "Clutter layouts with too many elements.",
+        "Distort or misuse the brand logo.",
+        "Present a static or uninspiring visual tone."
+      ],
+      "copy_dos": [
+        "Emphasize 'Trade smarter' and user empowerment.",
+        "Highlight security, trust, and regulatory compliance.",
+        "Communicate clearly and concisely.",
+        "Focus on benefits and solutions for users.",
+        "Promote community and global reach."
+      ],
+      "copy_donts": [
+        "Use overly technical jargon without explanation.",
+        "Make unrealistic promises or guarantees.",
+        "Employ sensationalist or fear-based language.",
+        "Ignore user concerns or feedback.",
+        "Present a narrow or exclusive view of crypto."
+      ]
+    },
+    "immutability": {
+      "must_remain": [
+        "Core brand name 'Bitget'.",
+        "Commitment to user security and protection.",
+        "Focus on innovation in crypto and Web3.",
+        "Aspirational and empowering brand attitude.",
+        "Primary brand colors (blue/purple gradient)."
+      ],
+      "can_evolve": [
+        "Specific product offerings and features.",
+        "Partnerships and sponsorships.",
+        "Visual styles and campaign themes (while adhering to core principles).",
+        "Taglines (as seen with 'Better trading Better life' to 'Trade smarter').",
+        "Technological implementations (e.g., AI integration)."
+      ],
+      "test_zone": [
+        "New social media content formats.",
+        "Experimental interactive campaign elements.",
+        "Localized visual adaptations for specific markets.",
+        "Integration of emerging digital art styles.",
+        "Novel educational content delivery methods."
+      ]
+    }
+  },
+  "channel_expression": {
+    "retail": {
+      "materials": [
+        "Digital signage with dynamic graphics",
+        "Sleek, informative brochures",
+        "Interactive kiosks showcasing platform features",
+        "Branded merchandise (e.g., apparel, tech accessories)"
+      ],
+      "interactive_elements": [
+        "Touchscreen displays for platform demos",
+        "Augmented reality experiences for product visualization",
+        "Live data feeds and market insights displays"
+      ],
+      "soundscape": "Modern, ambient electronic music with subtle digital sound effects, conveying innovation and calm focus."
+    },
+    "digital": {
+      "tone_adjustment": "Slightly more conversational and engaging on social media, more formal and detailed on the website and in official communications.",
+      "content_ratio": {
+        "campaign_vs_product": "60% campaign-driven, 40% product-focused on social media; 30% campaign, 70% product/information on website.",
+        "motion_vs_static": "70% motion (videos, animated graphics), 30% static images on social media; 40% motion, 60% static on website."
+      },
+      "platform_behavior": {
+        "Instagram": "Visually driven, high-quality graphics and short videos, engaging stories, influencer collaborations, community interaction.",
+        "Website": "Comprehensive information, intuitive navigation, clear calls to action, robust security features highlighted, educational resources.",
+        "Newsletter": "Curated market insights, platform updates, exclusive offers, educational content, direct and informative tone."
+      }
+    },
+    "print": {
+      "paper": "High-quality, smooth, matte or semi-gloss finish for a premium feel.",
+      "cover_rules": "Minimalist design with prominent logo and key visual, strong headline, ample white space, often using the primary blue/purple gradient."
+    }
+  },
+  "compliance": {
+    "no_discount_messaging": false,
+    "no_pricing_on_ads": false,
+    "no_competitor_mentions": true,
+    "no_stock_assets": true,
+    "no_medical_claims": true,
+    "logo_misuse_examples": [
+      "Stretching or distorting the logo proportions.",
+      "Changing the logo colors to non-brand approved colors.",
+      "Placing the logo on busy or clashing backgrounds without sufficient clear space.",
+      "Adding unauthorized elements or effects to the logo.",
+      "Using an outdated version of the logo."
+    ]
+  }
+}
