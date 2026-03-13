@@ -1,0 +1,27 @@
+{
+  "brand_name": "SHAQ Argentina",
+  "brand_description": "Zapatillas de básquet y urban de Shaquille O'Neal. Marca accesible, poderosa, auténtica. Combina el legado de un ícono del básquet con el espíritu callejero argentino.",
+  "tagline": "ROMPÉ EL TABLERO. ROMPÉ EL JUEGO.",
+  "brand_personality": ["dominante", "auténtico", "callejero", "poderoso", "accesible", "icónico"],
+  "visual_identity": {
+    "primary_colors": ["#CC0000", "#000000", "#FFFFFF"],
+    "accent_colors": ["#FFD700"],
+    "aesthetic": "urban basketball, cinematic realism, street authentic, Argentine culture"
+  },
+  "target_audience": "Jóvenes argentinos 16-35 años, fanáticos del básquet y la cultura urbana, streetwear, TikTok e Instagram. Buscan zapatillas con historia y personalidad a precio accesible.",
+  "content_guidelines": {
+    "tone": "Poderoso, directo, callejero. Sin soberbia, con actitud.",
+    "visual_style": "Cinematic, urbano porteño, real — no estudio. Siempre en contexto: cancha, calle, barrio.",
+    "hero_element": "La zapatilla debe ser SIEMPRE el protagonista absoluto del frame",
+    "variety_rule": "Cada imagen debe tener ambiente completamente distinto. PROHIBIDO repetir mismo setting.",
+    "prohibited": ["fondo blanco de estudio", "cancha vacía genérica sin contexto", "lifestyle sin zapatilla visible"],
+    "required_elements": ["zapatilla visible y en primer plano", "contexto real argentino o basketball", "actitud y carácter"]
+  },
+  "reference_aesthetics": [
+    "Nike 90s irreverent ads (Have Faith. Just Do It.)",
+    "Space Jam 1996 animated/real mix",
+    "God-tier basketball mythology (statue dunking in arena)",
+    "Buenos Aires street basketball — canchas de barrio, cemento, graffiti"
+  ],
+  "campaign_context": "Lanzamiento en Argentina. Posicionar a SHAQ como la marca de zapatillas con más personalidad del mercado — accesible pero icónica. Todo el contenido generado con IA."
+}
