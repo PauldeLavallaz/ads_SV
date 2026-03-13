@@ -146,66 +146,77 @@
   "photography": {
     "style": {
       "keywords": [
-        "Dynamic",
-        "Aspirational",
-        "Futuristic",
-        "Authentic (for user-focused)",
-        "High-energy",
-        "Professional",
-        "Confident"
+        "Product-led",
+        "Graphic",
+        "Bold",
+        "CGI/3D fintech",
+        "Card as absolute hero",
+        "Clean and sharp",
+        "Dark premium"
       ],
-      "preferred_photographers": [],
-      "camera_feel": "Modern, high-resolution, often wide-angle shots for expansive feel, or close-ups for emotional connection. Professional studio or on-location shoots.",
-      "pose_guidelines": "Confident, determined, active, or thoughtful poses. Athletes in action, individuals looking directly at the camera with a sense of purpose, or interacting with digital interfaces. Avoid passive or overly casual poses.",
-      "casting_attitude": "Diverse, aspirational, confident, focused, intelligent, representing a global user base. Celebrities and athletes convey peak performance and success."
+      "camera_feel": "Studio product photography or CGI render. Card is always large, centered, and in perfect focus. No complex scenes. Think Cash App, Karta, DolarApp visual language.",
+      "pose_guidelines": "If people appear, only hands or partial body — holding the card naturally. No full-body lifestyle shots. The card is the subject, not the person.",
+      "casting_attitude": "Minimal human presence. Prefer card-only or card + minimal background. When hands are needed: natural, clean, modern. No 'stock photo' energy."
     },
     "technical": {
-      "lighting": "Often dramatic, high-key or low-key with strong contrasts. Uses digital glows and spotlights to emphasize subjects or technological elements. Natural light for more authentic, user-focused shots.",
-      "contrast": "High contrast, especially between subjects and backgrounds, and between digital elements and darker tones, to create visual impact and depth.",
-      "grain": "Minimal to none, aiming for a clean, sharp, and polished look.",
-      "depth_of_field": "Shallow to medium depth of field to keep subjects in sharp focus while subtly blurring backgrounds, creating a professional and cinematic feel.",
-      "color_grading": "Cool tones (blues, purples) are dominant, often with a slight desaturation for a sophisticated, futuristic feel. Warm accents may be used sparingly for human elements or specific calls to action."
+      "lighting": "Studio lighting that makes the card shine. Dramatic single-source light on dark backgrounds, or clean even light on solid color backgrounds. Card should look premium and tactile.",
+      "contrast": "High contrast between card and background. Card always crisp and legible.",
+      "grain": "None. Ultra-clean render quality.",
+      "depth_of_field": "Card in sharp focus always. Background minimal or blurred.",
+      "color_grading": "Dark navy (#0A1F44) or Bitget cyan (#00C4FF) dominant backgrounds. Solid colors, gradients, or abstract CGI environments. No busy backgrounds."
     }
   },
   "campaign_guidelines": {
     "visual_tone": [
-      "Empowering and aspirational",
-      "Technologically advanced",
-      "Secure and trustworthy",
-      "Global and inclusive",
-      "Dynamic and energetic"
+      "Graphic and bold — not lifestyle photography",
+      "Card is ALWAYS the hero element, large and centered",
+      "Typography overlaid on image — bold, white or cyan",
+      "Dark navy or solid Bitget blue/cyan backgrounds",
+      "CGI/3D elements welcome: floating coins, digital particles, glassmorphism",
+      "Clean, premium fintech feel — think Cash App meets Karta"
     ],
     "preferred_locations": [
-      "Modern urban environments (cityscapes, high-tech offices)",
-      "Abstract digital landscapes",
-      "Sports arenas/stadiums",
-      "Clean, minimalist studio settings",
-      "Diverse everyday settings for 'Crypto For Everyone' messaging"
+      "Studio with solid dark navy or cyan background",
+      "Abstract CGI digital environment",
+      "Simple gradient background — dark to medium navy",
+      "Minimal lifestyle: Paris street, airport terminal — card held in hand in foreground"
     ],
     "contexts": [
-      "Financial trading and investment",
-      "Web3 and blockchain innovation",
-      "Sports and competitive excellence",
-      "Personal financial growth and empowerment",
-      "Community and global connectivity"
+      "Card floating as hero product shot",
+      "Card held in hand against simple background",
+      "Card with digital money/coin elements",
+      "Bold typographic layout with card",
+      "App screenshot + card combination"
     ],
     "model_casting": {
-      "age_range": "25-55, with some younger demographics for educational initiatives.",
-      "diversity": "High emphasis on ethnic, gender, and geographical diversity to reflect a global user base.",
-      "attitude": "Confident, intelligent, focused, determined, successful, approachable (for wallet)."
+      "age_range": "Minimal — prefer no person or just hands",
+      "diversity": "If hands appear: modern, clean manicure, any skin tone",
+      "attitude": "The CARD communicates the attitude. Product-first, not people-first."
     },
     "product_presentation": {
-      "hero_visibility": "High visibility, often central or prominently featured, showcasing key features or UI elements clearly.",
-      "styling_approach": "Clean, modern, and sophisticated. Digital interfaces are presented with clarity and intuitive design. Physical products (e.g., crypto cards) are shown with premium finishes.",
+      "hero_visibility": "MAXIMUM. Card occupies 40-60% of the frame. Always fully visible, never cropped except intentionally.",
+      "styling_approach": "Card rendered perfectly — correct colors, Bitget logo visible, Visa/Mastercard logo visible. CGI or photo-real quality. Never distorted.",
       "avoid": [
-        "Outdated or clunky interfaces",
-        "Overly complex or cluttered product shots",
-        "Misleading representations of product functionality"
+        "Generic lifestyle stock photography",
+        "Busy backgrounds that compete with the card",
+        "Small or barely visible card",
+        "Overly corporate or boring compositions",
+        "People as the main subject — card is the star"
+      ]
+    },
+    "typography_overlay": {
+      "style": "Bold, oversized, white or Bitget cyan. Uppercase or sentence case depending on tone. No small fonts.",
+      "placement": "Headline in upper third or lower third. Card in center/hero position.",
+      "reference_brands": [
+        "Cash App",
+        "Karta",
+        "DolarApp",
+        "Revolut"
       ]
     },
     "motion_rules": {
-      "pacing": "Dynamic and engaging, with a mix of fast cuts for excitement and slower, deliberate movements for clarity and emphasis. Smooth transitions.",
-      "transitions": "Clean, digital transitions (wipes, fades, subtle graphic overlays). Avoid abrupt or jarring cuts unless for specific dramatic effect."
+      "pacing": "Clean, minimal motion. Card reveal, subtle float, or bold text animation.",
+      "transitions": "Smooth, digital, premium."
     }
   },
   "brand_behavior": {
